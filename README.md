@@ -893,7 +893,7 @@
 *   [svanderburg/disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
 *   [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 *   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 *   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 *   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -1141,7 +1141,7 @@
 *   [ArneVogel/listudy](https://github.com/ArneVogel/listudy) - Listudy - chess training server
 *   [supabase/workflows](https://github.com/supabase/workflows) -
 *   [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## CSS
 
