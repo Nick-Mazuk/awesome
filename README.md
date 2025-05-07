@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SystemVerilog](#systemverilog)
 *   [Rust](#rust)
 *   [Starlark](#starlark)
 *   [TypeScript](#typescript)
@@ -44,7 +45,6 @@
 *   [MDX](#mdx)
 *   [Jai](#jai)
 *   [TLA](#tla)
-*   [SystemVerilog](#systemverilog)
 *   [Alloy](#alloy)
 *   [Scala](#scala)
 *   [Vim script](#vim-script-1)
@@ -64,6 +64,11 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
+
+## SystemVerilog
+
+*   [Weiyet/RTLStructLib](https://github.com/Weiyet/RTLStructLib) - RTL data structure
+*   [hwayne/lets-prove-leftpad](https://github.com/hwayne/lets-prove-leftpad) - Proving leftpad correct two-dozen different ways
 
 ## Rust
 
@@ -883,7 +888,6 @@
 *   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
 *   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
 
 ## C
 
@@ -1021,7 +1025,7 @@
 *   [andremm/typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 *   [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
 *   [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
-*   [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 *   [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 *   [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 *   [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
@@ -1257,10 +1261,6 @@
 ## TLA
 
 *   [Apress/practical-tla-plus](https://github.com/Apress/practical-tla-plus) - Source Code for 'Practical TLA+' by Hillel Wayne
-
-## SystemVerilog
-
-*   [hwayne/lets-prove-leftpad](https://github.com/hwayne/lets-prove-leftpad) - Proving leftpad correct two-dozen different ways
 
 ## Alloy
 
