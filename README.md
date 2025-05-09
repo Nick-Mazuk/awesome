@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [SystemVerilog](#systemverilog)
 *   [Rust](#rust)
+*   [SystemVerilog](#systemverilog)
 *   [Starlark](#starlark)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -65,13 +65,9 @@
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
 
-## SystemVerilog
-
-*   [Weiyet/RTLStructLib](https://github.com/Weiyet/RTLStructLib) - RTL data structure
-*   [hwayne/lets-prove-leftpad](https://github.com/hwayne/lets-prove-leftpad) - Proving leftpad correct two-dozen different ways
-
 ## Rust
 
+*   [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
 *   [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 *   [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -273,6 +269,11 @@
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
+
+## SystemVerilog
+
+*   [Weiyet/RTLStructLib](https://github.com/Weiyet/RTLStructLib) - RTL data structure
+*   [hwayne/lets-prove-leftpad](https://github.com/hwayne/lets-prove-leftpad) - Proving leftpad correct two-dozen different ways
 
 ## Starlark
 
@@ -532,7 +533,7 @@
 *   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-*   [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
+*   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
 *   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
 *   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 *   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
@@ -646,7 +647,6 @@
 *   [ghostwriternr/lowpolify](https://github.com/ghostwriternr/lowpolify) - Create low-poly art from any image :star2::star2:
 *   [anshi0910/attempt](https://github.com/anshi0910/attempt) -
 *   [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
-*   [facelessuser/HexViewer](https://github.com/facelessuser/HexViewer) - Hex viewer and editor for SublimeText
 
 ## Zig
 
@@ -910,7 +910,7 @@
 *   [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 *   [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 *   [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
-*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 *   [fujimotos/polyleven](https://github.com/fujimotos/polyleven) - A Fast Levenshtein Distance Library for Python
 *   [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 *   [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
