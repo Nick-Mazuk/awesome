@@ -67,6 +67,7 @@
 
 ## TypeScript
 
+*   [Emmaccen/MeshDrop](https://github.com/Emmaccen/MeshDrop) - A browser-based file transfer solution that enables seamless, direct device-to-device file sharing without the need for installation or cloud services
 *   [voideditor/void](https://github.com/voideditor/void) -
 *   [setoelkahfi/tauri-on-bazel](https://github.com/setoelkahfi/tauri-on-bazel) - Tauri on Bazel with NextJS 14.
 *   [saschaseniuk/vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - A Vite plugin that implements the llms.txt specification, enabling AI-optimized content alongside your routes. It automatically serves markdown files for LLM consumption and handles the llms.txt routing in development and production.
@@ -693,7 +694,6 @@
 *   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 *   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
 *   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 *   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 *   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 *   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
@@ -852,7 +852,6 @@
 *   [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 *   [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 *   [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
-*   [thelastpenguin/HarmonyMediaUI](https://github.com/thelastpenguin/HarmonyMediaUI) - the client portion of the harmony media server
 
 ## C++
 
@@ -860,6 +859,7 @@
 *   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 *   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
 *   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 *   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 *   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 *   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
