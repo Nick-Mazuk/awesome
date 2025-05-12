@@ -67,6 +67,7 @@
 
 ## TypeScript
 
+*   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [Emmaccen/MeshDrop](https://github.com/Emmaccen/MeshDrop) - A browser-based file transfer solution that enables seamless, direct device-to-device file sharing without the need for installation or cloud services
 *   [voideditor/void](https://github.com/voideditor/void) -
 *   [setoelkahfi/tauri-on-bazel](https://github.com/setoelkahfi/tauri-on-bazel) - Tauri on Bazel with NextJS 14.
@@ -604,7 +605,6 @@
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 *   [gleich/nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
-*   [fogleman/pack3d](https://github.com/fogleman/pack3d) - Tightly pack 3D models.
 
 ## Jupyter Notebook
 
