@@ -67,6 +67,7 @@
 
 ## TypeScript
 
+*   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [Emmaccen/MeshDrop](https://github.com/Emmaccen/MeshDrop) - A browser-based file transfer solution that enables seamless, direct device-to-device file sharing without the need for installation or cloud services
 *   [voideditor/void](https://github.com/voideditor/void) -
@@ -647,7 +648,6 @@
 *   [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 *   [ghostwriternr/lowpolify](https://github.com/ghostwriternr/lowpolify) - Create low-poly art from any image :star2::star2:
 *   [anshi0910/attempt](https://github.com/anshi0910/attempt) -
-*   [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 
 ## Zig
 
