@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [SystemVerilog](#systemverilog)
 *   [Starlark](#starlark)
@@ -64,44 +64,9 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 
-## miscellaneous
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
-*   [multiformats/cid](https://github.com/multiformats/cid) - Self-describing content-addressed identifiers for distributed systems
-*   [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) -
-*   [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
-*   [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
-*   [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
-*   [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
-*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
-*   [jecolon/zigstr](https://github.com/jecolon/zigstr) - Zigstr is a UTF-8 string type for Zig programs.
-*   [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
-*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-*   [JamieMason/syncpack-github-action](https://github.com/JamieMason/syncpack-github-action) - A GitHub Action to synchronise monorepo dependency versions with syncpack.
-*   [lfades/static-tweet](https://github.com/lfades/static-tweet) -
-*   [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
-*   [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-*   [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-*   [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
-*   [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) -
-*   [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
-*   [Nick-Mazuk/tsconfig](https://github.com/Nick-Mazuk/tsconfig) - A strict tsconfig for TypeScript projects.
-*   [Nick-Mazuk/gatsby](https://github.com/Nick-Mazuk/gatsby) - Build blazing fast, modern apps and websites with React
-*   [Nick-Mazuk/Nick-Mazuk](https://github.com/Nick-Mazuk/Nick-Mazuk) -
-*   [Nick-Mazuk/google-10000-english](https://github.com/Nick-Mazuk/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-*   [Nick-Mazuk/Tic-Tac-Toe](https://github.com/Nick-Mazuk/Tic-Tac-Toe) -
-*   [Nick-Mazuk/ASL](https://github.com/Nick-Mazuk/ASL) -
-*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-*   [garethgeorge/arkit-memorypalace-report](https://github.com/garethgeorge/arkit-memorypalace-report) - report for UCSB assignment ARKit Memory Palace
-
 ## TypeScript
 
+*   [dcrebbin/cursor-learner](https://github.com/dcrebbin/cursor-learner) - Transform your Cursor chat history into targeted prompts for actionable AI feedback.
 *   [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 Server-oriented customizable templating for JavaScript. Alternative to HTMX and Alpine.js.
 *   [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
 *   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
@@ -316,6 +281,42 @@
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
+## miscellaneous
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+*   [multiformats/cid](https://github.com/multiformats/cid) - Self-describing content-addressed identifiers for distributed systems
+*   [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) -
+*   [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
+*   [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
+*   [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
+*   [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
+*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
+*   [jecolon/zigstr](https://github.com/jecolon/zigstr) - Zigstr is a UTF-8 string type for Zig programs.
+*   [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
+*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+*   [JamieMason/syncpack-github-action](https://github.com/JamieMason/syncpack-github-action) - A GitHub Action to synchronise monorepo dependency versions with syncpack.
+*   [lfades/static-tweet](https://github.com/lfades/static-tweet) -
+*   [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
+*   [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
+*   [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) -
+*   [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+*   [Nick-Mazuk/tsconfig](https://github.com/Nick-Mazuk/tsconfig) - A strict tsconfig for TypeScript projects.
+*   [Nick-Mazuk/gatsby](https://github.com/Nick-Mazuk/gatsby) - Build blazing fast, modern apps and websites with React
+*   [Nick-Mazuk/Nick-Mazuk](https://github.com/Nick-Mazuk/Nick-Mazuk) -
+*   [Nick-Mazuk/google-10000-english](https://github.com/Nick-Mazuk/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+*   [Nick-Mazuk/Tic-Tac-Toe](https://github.com/Nick-Mazuk/Tic-Tac-Toe) -
+*   [Nick-Mazuk/ASL](https://github.com/Nick-Mazuk/ASL) -
+*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+*   [garethgeorge/arkit-memorypalace-report](https://github.com/garethgeorge/arkit-memorypalace-report) - report for UCSB assignment ARKit Memory Palace
 
 ## Rust
 
@@ -958,7 +959,6 @@
 *   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 *   [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 *   [ianh/owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
-*   [diracdeltas/FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
 
 ## Svelte
 
