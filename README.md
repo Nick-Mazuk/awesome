@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [ReScript](#rescript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -56,13 +57,21 @@
 *   [Dart](#dart)
 *   [Nim](#nim)
 *   [Roff](#roff)
-*   [ReScript](#rescript)
 *   [Haml](#haml)
 *   [CoffeeScript](#coffeescript)
 *   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## ReScript
+
+*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
+*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
+*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
+*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
+*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
+*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## TypeScript
 
@@ -523,7 +532,6 @@
 *   [cjdenio/shorty](https://github.com/cjdenio/shorty) - High-performance link shortener
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
 ## SystemVerilog
 
@@ -888,8 +896,6 @@
 *   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 *   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
 *   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
-*   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
-*   [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 
 ## C++
 
@@ -1308,12 +1314,6 @@
 ## Roff
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
-## ReScript
-
-*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
-*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
-*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Haml
 
