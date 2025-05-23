@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [ReScript](#rescript)
 *   [TypeScript](#typescript)
+*   [ReScript](#rescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [SystemVerilog](#systemverilog)
@@ -64,17 +64,9 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 
-## ReScript
-
-*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
-*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
-*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
-*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
-*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
-*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-
 ## TypeScript
 
+*   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 *   [dcrebbin/cursor-learner](https://github.com/dcrebbin/cursor-learner) - Transform your Cursor chat history into targeted prompts for actionable AI feedback.
 *   [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 Server-oriented customizable templating for JavaScript. Alternative to HTMX and Alpine.js.
 *   [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
@@ -290,6 +282,15 @@
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
+## ReScript
+
+*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
+*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
+*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
+*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
+*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
+*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## miscellaneous
 
@@ -895,7 +896,6 @@
 *   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 *   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 *   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
-*   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
 
 ## C++
 
