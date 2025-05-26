@@ -94,7 +94,7 @@
 *   [Sheraff/drizzle-orm-crsqlite-wasm](https://github.com/Sheraff/drizzle-orm-crsqlite-wasm) -
 *   [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 *   [OvidijusParsiunas/active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
-*   [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in
+*   [evoluhq/evolu](https://github.com/evoluhq/evolu) - Privacy-focused local‑first platform that scales.
 *   [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 *   [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
@@ -1082,7 +1082,7 @@
 *   [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! \[maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 *   [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
 *   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@rycee]
-*   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - nix modules for darwin
+*   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 *   [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 
 ## Shell
