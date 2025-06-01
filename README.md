@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [Go](#go)
@@ -27,7 +28,6 @@
 *   [Shell](#shell)
 *   [Swift](#swift)
 *   [Haskell](#haskell)
-*   [HTML](#html)
 *   [Elixir](#elixir)
 *   [Kotlin](#kotlin)
 *   [Makefile](#makefile)
@@ -63,6 +63,28 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## HTML
+
+*   [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) -
+*   [WebReflection/linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
+*   [ts-stack/markdown](https://github.com/ts-stack/markdown) - A full-featured markdown parser and compiler, written in TypeScript.
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+*   [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
+*   [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
+*   [rosetta-rs/string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
+*   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
+*   [dmtrKovalenko/cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
+*   [LeaVerou/css.land](https://github.com/LeaVerou/css.land) - Hands on CSS demos
+*   [Nick-Mazuk/Convert-CSS-Hex-to-HSL](https://github.com/Nick-Mazuk/Convert-CSS-Hex-to-HSL) - Upload a CSS (or any text file) file and all hex colors will be converted HSL (e.g., #FFFFFF -> hsl(0, 0, 100))
+*   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
+*   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
+*   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
+*   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
+*   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
+*   [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 
 ## TypeScript
 
@@ -299,7 +321,6 @@
 *   [aminkodaganur/iconplus](https://github.com/aminkodaganur/iconplus) - Produce icons with extra effect like long shadow, flat shadow, box effect, circle effect and rounded rectangle effect. It support Dynamic text, Font-awesome icons and also google materialized icon. You can make any Font-awesome icon as line icon and add attractive effect to it dynamically. As a output you will get CSS3 code and also you can export it as SVG file...
 *   [Nick-Mazuk/traveling-salesman](https://github.com/Nick-Mazuk/traveling-salesman) - A real-time traveling salesman visualizer. Compare 6 algorithms in either a bustling suburb or a lifeless, theoretical void. The choice is yours, and see the results in real-time!
 *   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-*   [codrops/CSSGlitchEffect](https://github.com/codrops/CSSGlitchEffect) - An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
 
 ## Go
 
@@ -1136,27 +1157,6 @@
 *   [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 *   [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
-
-## HTML
-
-*   [WebReflection/linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
-*   [ts-stack/markdown](https://github.com/ts-stack/markdown) - A full-featured markdown parser and compiler, written in TypeScript.
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-*   [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
-*   [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
-*   [rosetta-rs/string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
-*   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
-*   [dmtrKovalenko/cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
-*   [LeaVerou/css.land](https://github.com/LeaVerou/css.land) - Hands on CSS demos
-*   [Nick-Mazuk/Convert-CSS-Hex-to-HSL](https://github.com/Nick-Mazuk/Convert-CSS-Hex-to-HSL) - Upload a CSS (or any text file) file and all hex colors will be converted HSL (e.g., #FFFFFF -> hsl(0, 0, 100))
-*   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
-*   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
-*   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
-*   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
-*   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
-*   [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 
 ## Elixir
 
