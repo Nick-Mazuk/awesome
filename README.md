@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [TypeScript](#typescript)
+*   [ReScript](#rescript)
+*   [Gleam](#gleam)
+*   [HTML](#html)
 *   [CSS](#css)
 *   [Go](#go)
 *   [Starlark](#starlark)
-*   [ReScript](#rescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [SystemVerilog](#systemverilog)
@@ -20,7 +21,6 @@
 *   [C++](#c)
 *   [C](#c-1)
 *   [Svelte](#svelte)
-*   [Gleam](#gleam)
 *   [Odin](#odin)
 *   [Ruby](#ruby)
 *   [Lua](#lua)
@@ -64,30 +64,10 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 
-## HTML
-
-*   [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) -
-*   [WebReflection/linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
-*   [ts-stack/markdown](https://github.com/ts-stack/markdown) - A full-featured markdown parser and compiler, written in TypeScript.
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-*   [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
-*   [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
-*   [rosetta-rs/string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
-*   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
-*   [dmtrKovalenko/cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
-*   [LeaVerou/css.land](https://github.com/LeaVerou/css.land) - Hands on CSS demos
-*   [Nick-Mazuk/Convert-CSS-Hex-to-HSL](https://github.com/Nick-Mazuk/Convert-CSS-Hex-to-HSL) - Upload a CSS (or any text file) file and all hex colors will be converted HSL (e.g., #FFFFFF -> hsl(0, 0, 100))
-*   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
-*   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
-*   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
-*   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
-*   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
-*   [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
-
 ## TypeScript
 
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+*   [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 *   [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 *   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 *   [dcrebbin/cursor-learner](https://github.com/dcrebbin/cursor-learner) - Transform your Cursor chat history into targeted prompts for actionable AI feedback.
@@ -306,6 +286,49 @@
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
+## ReScript
+
+*   [zth/rescript-edgedb](https://github.com/zth/rescript-edgedb) - Use EdgeDB fully type safe in ReScript. Embed EdgeQL right in your ReScript source code.
+*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
+*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
+*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
+*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
+*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
+*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
+
+## Gleam
+
+*   [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
+*   [giacomocavalieri/squirrel](https://github.com/giacomocavalieri/squirrel) - 🐿️ Type safe SQL in Gleam
+*   [bcpeinhardt/code\_review](https://github.com/bcpeinhardt/code_review) - A linter for Gleam, written in Gleam
+*   [bitbldr/sprocket](https://github.com/bitbldr/sprocket) - A library for building server components in Gleam ✨
+*   [gleam-wisp/wisp](https://github.com/gleam-wisp/wisp) - 🧚 A practical web framework for Gleam
+*   [gleam-lang/http](https://github.com/gleam-lang/http) - 🕸️ Types and functions for HTTP clients and servers!
+*   [okkdev/glailglind](https://github.com/okkdev/glailglind) - 🌬️ tailwindcss for gleam
+*   [lpil/pog](https://github.com/lpil/pog) - 🐘 A PostgreSQL database client for Gleam, based on PGO
+*   [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
+
+## HTML
+
+*   [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) -
+*   [WebReflection/linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
+*   [ts-stack/markdown](https://github.com/ts-stack/markdown) - A full-featured markdown parser and compiler, written in TypeScript.
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+*   [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
+*   [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
+*   [rosetta-rs/string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
+*   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
+*   [dmtrKovalenko/cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
+*   [LeaVerou/css.land](https://github.com/LeaVerou/css.land) - Hands on CSS demos
+*   [Nick-Mazuk/Convert-CSS-Hex-to-HSL](https://github.com/Nick-Mazuk/Convert-CSS-Hex-to-HSL) - Upload a CSS (or any text file) file and all hex colors will be converted HSL (e.g., #FFFFFF -> hsl(0, 0, 100))
+*   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
+*   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
+*   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
+*   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
+*   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
+
 ## CSS
 
 *   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -442,15 +465,6 @@
 *   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
 *   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
 
-## ReScript
-
-*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
-*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
-*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
-*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
-*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
-*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-
 ## miscellaneous
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -504,7 +518,7 @@
 *   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 *   [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 *   [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
-*   [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+*   [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 *   [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 *   [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler, scraper, and automation framework for Rust
 *   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
@@ -736,8 +750,6 @@
 *   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
 *   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
 *   [aaronstanek/UniversalCalendar](https://github.com/aaronstanek/UniversalCalendar) -
-*   [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
-*   [ghostwriternr/lowpolify](https://github.com/ghostwriternr/lowpolify) - Create low-poly art from any image :star2::star2:
 
 ## Zig
 
@@ -935,7 +947,6 @@
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 *   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
 *   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 
 ## C++
 
@@ -1030,17 +1041,6 @@
 *   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
 *   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
 *   [Nick-Mazuk/game-of-life](https://github.com/Nick-Mazuk/game-of-life) - A take on Conway's Game of Life but with two "species"
-
-## Gleam
-
-*   [giacomocavalieri/squirrel](https://github.com/giacomocavalieri/squirrel) - 🐿️ Type safe SQL in Gleam
-*   [bcpeinhardt/code\_review](https://github.com/bcpeinhardt/code_review) - A linter for Gleam, written in Gleam
-*   [bitbldr/sprocket](https://github.com/bitbldr/sprocket) - A library for building server components in Gleam ✨
-*   [gleam-wisp/wisp](https://github.com/gleam-wisp/wisp) - 🧚 A practical web framework for Gleam
-*   [gleam-lang/http](https://github.com/gleam-lang/http) - 🕸️ Types and functions for HTTP clients and servers!
-*   [okkdev/glailglind](https://github.com/okkdev/glailglind) - 🌬️ tailwindcss for gleam
-*   [lpil/pog](https://github.com/lpil/pog) - 🐘 A PostgreSQL database client for Gleam, based on PGO
-*   [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
 
 ## Odin
 
