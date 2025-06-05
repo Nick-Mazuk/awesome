@@ -197,7 +197,7 @@
 *   [plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore) - This is an Obsidian plugin to allow easily sideloading other plugins.
 *   [Benjamin-Dobell/luabundle](https://github.com/Benjamin-Dobell/luabundle) - A library for bundling several Lua files into a single file.
 *   [eBay/visual-html](https://github.com/eBay/visual-html) - Visual regression testing without the flakiness.
-*   [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
+*   [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 *   [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix) - Utilities and variants for styling Radix state
 *   [otonashixav/solid-flip](https://github.com/otonashixav/solid-flip) -
