@@ -750,7 +750,7 @@
 *   [Lokathor/tinyvec](https://github.com/Lokathor/tinyvec) - Just, really the littlest Vec you could need. So smol.
 *   [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 *   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-*   [geldata/gel-rust](https://github.com/geldata/gel-rust) - The official Rust binding for EdgeDB
+*   [geldata/gel-rust](https://github.com/geldata/gel-rust) - The official Rust binding for Gel
 *   [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics
 *   [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  \[Rust Latam conference, Montevideo Uruguay, March 2019]
 *   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
