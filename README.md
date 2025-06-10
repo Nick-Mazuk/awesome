@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [ReScript](#rescript)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Starlark](#starlark)
 *   [JavaScript](#javascript)
-*   [ReScript](#rescript)
 *   [Gleam](#gleam)
 *   [HTML](#html)
 *   [CSS](#css)
@@ -63,6 +63,17 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## ReScript
+
+*   [DZakh/sury](https://github.com/DZakh/sury) - 🧬 The fastest schema with next-gen DX
+*   [zth/rescript-edgedb](https://github.com/zth/rescript-edgedb) - Use EdgeDB fully type safe in ReScript. Embed EdgeQL right in your ReScript source code.
+*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
+*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
+*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
+*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
+*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
+*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Swift
 
@@ -494,17 +505,6 @@
 *   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
 *   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-*   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
-
-## ReScript
-
-*   [zth/rescript-edgedb](https://github.com/zth/rescript-edgedb) - Use EdgeDB fully type safe in ReScript. Embed EdgeQL right in your ReScript source code.
-*   [zth/res-x](https://github.com/zth/res-x) - A ReScript framework for building server-driven web sites and applications. Use familiar tech like JSX and the component model from React, combined with simple server driven client side technologies like HTMX. Built on Bun and Vite.
-*   [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) - ReScript bindings to Vitest
-*   [zth/rescript-bun](https://github.com/zth/rescript-bun) - Use Bun with ReScript.
-*   [bloodyowl/rescript-test](https://github.com/bloodyowl/rescript-test) - A lightweight test framework for ReScript
-*   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
-*   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Gleam
 
