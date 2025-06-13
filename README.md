@@ -178,7 +178,6 @@
 *   [OrJDev/trpc-limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Upstash, Memory Store And Much More
 *   [juliusmarminge/trpc-tools](https://github.com/juliusmarminge/trpc-tools) -
 *   [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
-*   [lstrzepek/obsidian-yt-transcript](https://github.com/lstrzepek/obsidian-yt-transcript) -
 *   [qwikifiers/qwik-nx](https://github.com/qwikifiers/qwik-nx) - Nx plugin for Qwik
 *   [amazon-ion/ion-js](https://github.com/amazon-ion/ion-js) - A JavaScript implementation of Amazon Ion.
 *   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -527,6 +526,7 @@
 *   [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 *   [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 *   [rosetta-rs/string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
+*   [lstrzepek/obsidian-yt-transcript](https://github.com/lstrzepek/obsidian-yt-transcript) -
 *   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
