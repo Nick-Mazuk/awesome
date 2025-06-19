@@ -961,7 +961,6 @@
 *   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 *   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
 *   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 *   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 *   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 *   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -1195,6 +1194,7 @@
 *   [Nick-Mazuk/Band-Website](https://github.com/Nick-Mazuk/Band-Website) -
 *   [Nick-Mazuk/Cascading-Explanding-Block](https://github.com/Nick-Mazuk/Cascading-Explanding-Block) - This is just an experiment repository to help make fancy looking navigation bars.
 *   [Nick-Mazuk/Spoon-Knife](https://github.com/Nick-Mazuk/Spoon-Knife) - This repo is for demonstration purposes only.
+*   [aminkodaganur/iconplus](https://github.com/aminkodaganur/iconplus) - Produce icons with extra effect like long shadow, flat shadow, box effect, circle effect and rounded rectangle effect. It support Dynamic text, Font-awesome icons and also google materialized icon. You can make any Font-awesome icon as line icon and add attractive effect to it dynamically. As a output you will get CSS3 code and also you can export it as SVG file...
 
 ## Java
 
