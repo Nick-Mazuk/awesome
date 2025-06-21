@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
+*   [OCaml](#ocaml)
 *   [Rust](#rust)
 *   [Starlark](#starlark)
 *   [TypeScript](#typescript)
@@ -23,7 +25,6 @@
 *   [C](#c-1)
 *   [Svelte](#svelte)
 *   [Odin](#odin)
-*   [Ruby](#ruby)
 *   [Lua](#lua)
 *   [Nix](#nix)
 *   [Shell](#shell)
@@ -40,7 +41,6 @@
 *   [PHP](#php)
 *   [Dockerfile](#dockerfile)
 *   [C#](#c-2)
-*   [OCaml](#ocaml)
 *   [F#](#f)
 *   [SCSS](#scss)
 *   [D](#d)
@@ -64,6 +64,26 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## Ruby
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
+*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
+*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
+*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
+*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
+
+## OCaml
+
+*   [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+*   [yawaramin/dream-html](https://github.com/yawaramin/dream-html) - Type-safe markup rendering, form validation, and routing for OCaml Dream web framework
+*   [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
+*   [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
+*   [mransan/ocaml-protoc](https://github.com/mransan/ocaml-protoc) - A Protobuf Compiler for OCaml
 
 ## Rust
 
@@ -702,8 +722,6 @@
 *   [Nick-Mazuk/geopattern](https://github.com/Nick-Mazuk/geopattern) - Generate beautiful SVG patterns
 *   [Nick-Mazuk/collatz](https://github.com/Nick-Mazuk/collatz) - A calculator that simply returns the path of evens and odds for the collatz conjecture.
 *   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
-*   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## ReScript
 
@@ -1054,17 +1072,6 @@
 *   [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
 *   [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
-## Ruby
-
-*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
-*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
-*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
-*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
-*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
-*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
-
 ## Lua
 
 *   [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
@@ -1240,13 +1247,6 @@
 *   [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - Create your own tiny chess bot!
 *   [wolfgarbe/PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 *   [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
-
-## OCaml
-
-*   [yawaramin/dream-html](https://github.com/yawaramin/dream-html) - Type-safe markup rendering, form validation, and routing for OCaml Dream web framework
-*   [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-*   [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
-*   [mransan/ocaml-protoc](https://github.com/mransan/ocaml-protoc) - A Protobuf Compiler for OCaml
 
 ## F\#
 
