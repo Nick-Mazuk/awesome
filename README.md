@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -24,7 +25,6 @@
 *   [Zig](#zig)
 *   [C++](#c)
 *   [C](#c-1)
-*   [Svelte](#svelte)
 *   [Odin](#odin)
 *   [Lua](#lua)
 *   [Nix](#nix)
@@ -64,6 +64,31 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## Svelte
+
+*   [michael/svedit](https://github.com/michael/svedit) -
+*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
+*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
+*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
+*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
+*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
+*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
+*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
+*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
+*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
+*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
+*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
+*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
+*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
+*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
+*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
+*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
+*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
+*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
 
 ## Rust
 
@@ -828,7 +853,6 @@
 *   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
 *   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
 *   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
-*   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
 
 ## Go
 
@@ -1059,30 +1083,6 @@
 *   [petere/pguri](https://github.com/petere/pguri) - uri type for PostgreSQL
 *   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 *   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
-
-## Svelte
-
-*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
-*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
-*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
-*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
-*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
-*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
-*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
-*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
-*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
-*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
-*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
-*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
-*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
-*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
-*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
-*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
-*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
-*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
-*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
 
 ## Odin
 
