@@ -342,7 +342,7 @@
 *   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 *   [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 *   [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
-*   [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Turso Database is a project to build the next evolution of SQLite.
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 *   [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 *   [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
 *   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
