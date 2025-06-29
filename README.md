@@ -5,11 +5,12 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [Svelte](#svelte)
+*   [Go](#go)
 *   [Rust](#rust)
+*   [Starlark](#starlark)
+*   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [Starlark](#starlark)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [OCaml](#ocaml)
@@ -18,7 +19,6 @@
 *   [Swift](#swift)
 *   [Gleam](#gleam)
 *   [HTML](#html)
-*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [SystemVerilog](#systemverilog)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -67,6 +67,9 @@
 
 ## TypeScript
 
+*   [ChromeGG/cel-js](https://github.com/ChromeGG/cel-js) - cel-js is a  Common Expression Language (CEL) evaluator for JavaScript
+*   [bufbuild/protovalidate-es](https://github.com/bufbuild/protovalidate-es) - Protocol Buffer Validation for ECMAScript
+*   [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 *   [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 *   [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
@@ -294,33 +297,97 @@
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
-## Svelte
+## Go
 
-*   [michael/svedit](https://github.com/michael/svedit) -
-*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
-*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
-*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
-*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
-*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
-*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
-*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
-*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
-*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
-*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
-*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
-*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
-*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
-*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
-*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
-*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
-*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
-*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
-*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
+*   [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
+*   [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+*   [bazel-contrib/rules\_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
+*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+*   [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+*   [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+*   [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
+*   [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
+*   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
+*   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
+*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+*   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+*   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
+*   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
+*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+*   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
+*   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+*   [katallaxie/fiber-htmx](https://github.com/katallaxie/fiber-htmx) - 🔨Create HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
+*   [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
+*   [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+*   [emarifer/gofiber-templ-htmx](https://github.com/emarifer/gofiber-templ-htmx) - Go/Fiber🧬+\</>Templ to-do list app with user login and HTMx-powered frontend.
+*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+*   [CloudyKit/jet](https://github.com/CloudyKit/jet) - Jet  template engine
+*   [mattn/go-slim](https://github.com/mattn/go-slim) - Slim Template Engine for golang
+*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+*   [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+*   [go-errors/errors](https://github.com/go-errors/errors) - errors with stacktraces for go
+*   [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
+*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+*   [ent/ent](https://github.com/ent/ent) - An entity framework for Go
+*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+*   [nishanths/exhaustive](https://github.com/nishanths/exhaustive) - Check exhaustiveness of switch statements of enum-like constants in Go source code.
+*   [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+*   [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+*   [healeycodes/noter](https://github.com/healeycodes/noter) - 📝 A text editor for macOS. Built using the Ebitengine game engine.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+*   [ostafen/clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
+*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+*   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
+*   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
+*   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
+*   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
+*   [steambap/captcha](https://github.com/steambap/captcha) - :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [julvo/htmlgo](https://github.com/julvo/htmlgo) - A library for writing type-safe HTML in Golang
+*   [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+*   [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
+*   [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
+*   [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+*   [go-language-server/protocol](https://github.com/go-language-server/protocol) - Package protocol implements Language Server Protocol specification in Go
+*   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+*   [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
+*   [protocolbuffers/txtpbfmt](https://github.com/protocolbuffers/txtpbfmt) - txtpbfmt parses, edits and formats text proto files in a way that preserves comments.
+*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
+*   [google/kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes.
+*   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+*   [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
+*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [choffmeister/git-describe-semver](https://github.com/choffmeister/git-describe-semver) -
+*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+*   [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
+*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
+*   [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
+*   [ewhauser/bazel-differ](https://github.com/ewhauser/bazel-differ) -
+*   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+*   [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
+*   [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
+*   [jackskj/protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL Data mapper framework for grpc/protobuf
+*   [alexeagle/bazel-gazelle](https://github.com/alexeagle/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+*   [gg-scm/gg](https://github.com/gg-scm/gg) - Git with less typing
+*   [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
+*   [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [s1ntaxe770r/pawxi](https://github.com/s1ntaxe770r/pawxi) - Dead simple reverse proxy for all your containerized needss
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## Rust
 
+*   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
 *   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [eastspire/hyperlane](https://github.com/eastspire/hyperlane) - Hyperlane is a lightweight and high-performance Rust HTTP server library designed to simplify network service development. It supports HTTP request parsing, response building, TCP communication, and redirection features, making it ideal for building modern web services.
@@ -531,6 +598,69 @@
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
+## Starlark
+
+*   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+*   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
+*   [theoremlp/rules\_multitool](https://github.com/theoremlp/rules_multitool) - Bazel rules for ergonomic tool definitions
+*   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
+*   [theoremlp/rules\_uv](https://github.com/theoremlp/rules_uv) - Bazel rules for running uv
+*   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
+*   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
+*   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
+*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
+*   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
+*   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
+*   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
+*   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
+*   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
+*   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
+*   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
+*   [bazel-contrib/rules\_jvm\_external](https://github.com/bazel-contrib/rules_jvm_external) - Bazel rules to resolve, fetch and export Maven artifacts
+*   [bazelbuild/rules\_kotlin](https://github.com/bazelbuild/rules_kotlin) - Bazel rules for Kotlin
+*   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+*   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
+*   [bazelbuild/rules\_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
+*   [aspect-build/rules\_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
+*   [jf-marino/example-bazel-sveltekit](https://github.com/jf-marino/example-bazel-sveltekit) - Initial template for a monorepo with bazel and sveltekit
+*   [aspect-build/rules\_ts](https://github.com/aspect-build/rules_ts) - Bazel rules for the `tsc` compiler from http://typescriptlang.org
+*   [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux.
+*   [salesforce/bazel-mystery](https://github.com/salesforce/bazel-mystery) - An interactive way to learn bazel.
+*   [aspect-build/rules\_esbuild](https://github.com/aspect-build/rules_esbuild) - Bazel rules for https://esbuild.github.io/ JS bundler
+*   [aspect-build/rules\_swc](https://github.com/aspect-build/rules_swc) - Bazel rules for the swc toolchain https://swc.rs/
+*   [bazel-contrib/rules\_nodejs](https://github.com/bazel-contrib/rules_nodejs) - NodeJS toolchain for Bazel.
+*   [apple/apple\_rules\_lint](https://github.com/apple/apple_rules_lint) - A framework for adding lint checks to Bazel projects
+*   [typedb/bazel-distribution](https://github.com/typedb/bazel-distribution) - Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)
+*   [iocat/rules\_rescript](https://github.com/iocat/rules_rescript) - Bazel Rules for Rescript
+*   [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
+*   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
+*   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
+
+## Svelte
+
+*   [michael/svedit](https://github.com/michael/svedit) -
+*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
+*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
+*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
+*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
+*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
+*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
+*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
+*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
+*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
+*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
+*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
+*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
+*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
+*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
+*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
+*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
+*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
+*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
+
 ## JavaScript
 
 *   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
@@ -683,10 +813,6 @@
 *   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
 *   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
 *   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
-*   [Nick-Mazuk/javascript-helper](https://github.com/Nick-Mazuk/javascript-helper) - Tool that will help make javascript code easier in many ways
-*   [Nick-Mazuk/breakout](https://github.com/Nick-Mazuk/breakout) - My version of the game Breakout
-*   [Nick-Mazuk/pong](https://github.com/Nick-Mazuk/pong) - My version of the game Pong
-*   [Nick-Mazuk/brick](https://github.com/Nick-Mazuk/brick) - A create-your-own-adventure game for my English Existentialist project
 
 ## Python
 
@@ -721,43 +847,6 @@
 *   [aaronstanek/key\_exchange\_example](https://github.com/aaronstanek/key_exchange_example) -
 *   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
 *   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
-
-## Starlark
-
-*   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
-*   [theoremlp/rules\_multitool](https://github.com/theoremlp/rules_multitool) - Bazel rules for ergonomic tool definitions
-*   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
-*   [theoremlp/rules\_uv](https://github.com/theoremlp/rules_uv) - Bazel rules for running uv
-*   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
-*   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
-*   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
-*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
-*   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
-*   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
-*   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
-*   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
-*   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
-*   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
-*   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
-*   [bazel-contrib/rules\_jvm\_external](https://github.com/bazel-contrib/rules_jvm_external) - Bazel rules to resolve, fetch and export Maven artifacts
-*   [bazelbuild/rules\_kotlin](https://github.com/bazelbuild/rules_kotlin) - Bazel rules for Kotlin
-*   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-*   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
-*   [bazelbuild/rules\_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
-*   [aspect-build/rules\_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
-*   [jf-marino/example-bazel-sveltekit](https://github.com/jf-marino/example-bazel-sveltekit) - Initial template for a monorepo with bazel and sveltekit
-*   [aspect-build/rules\_ts](https://github.com/aspect-build/rules_ts) - Bazel rules for the `tsc` compiler from http://typescriptlang.org
-*   [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux.
-*   [salesforce/bazel-mystery](https://github.com/salesforce/bazel-mystery) - An interactive way to learn bazel.
-*   [aspect-build/rules\_esbuild](https://github.com/aspect-build/rules_esbuild) - Bazel rules for https://esbuild.github.io/ JS bundler
-*   [aspect-build/rules\_swc](https://github.com/aspect-build/rules_swc) - Bazel rules for the swc toolchain https://swc.rs/
-*   [bazel-contrib/rules\_nodejs](https://github.com/bazel-contrib/rules_nodejs) - NodeJS toolchain for Bazel.
-*   [apple/apple\_rules\_lint](https://github.com/apple/apple_rules_lint) - A framework for adding lint checks to Bazel projects
-*   [typedb/bazel-distribution](https://github.com/typedb/bazel-distribution) - Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)
-*   [iocat/rules\_rescript](https://github.com/iocat/rules_rescript) - Bazel Rules for Rescript
-*   [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
-*   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
-*   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
 
 ## Shell
 
@@ -854,93 +943,6 @@
 *   [Nick-Mazuk/greenlight](https://github.com/Nick-Mazuk/greenlight) - A light that can "predict" your actions (because psychology)
 *   [Nick-Mazuk/Web-Structure-Practice](https://github.com/Nick-Mazuk/Web-Structure-Practice) - An experimental repository to help learn the basics of structuring websites and multiple css sources
 
-## Go
-
-*   [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-*   [bazel-contrib/rules\_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
-*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-*   [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-*   [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
-*   [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
-*   [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-*   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
-*   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
-*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-*   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
-*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-*   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
-*   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
-*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-*   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
-*   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
-*   [katallaxie/fiber-htmx](https://github.com/katallaxie/fiber-htmx) - 🔨Create HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
-*   [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
-*   [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-*   [emarifer/gofiber-templ-htmx](https://github.com/emarifer/gofiber-templ-htmx) - Go/Fiber🧬+\</>Templ to-do list app with user login and HTMx-powered frontend.
-*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-*   [CloudyKit/jet](https://github.com/CloudyKit/jet) - Jet  template engine
-*   [mattn/go-slim](https://github.com/mattn/go-slim) - Slim Template Engine for golang
-*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
-*   [go-errors/errors](https://github.com/go-errors/errors) - errors with stacktraces for go
-*   [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
-*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-*   [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-*   [nishanths/exhaustive](https://github.com/nishanths/exhaustive) - Check exhaustiveness of switch statements of enum-like constants in Go source code.
-*   [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-*   [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
-*   [healeycodes/noter](https://github.com/healeycodes/noter) - 📝 A text editor for macOS. Built using the Ebitengine game engine.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
-*   [ostafen/clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
-*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-*   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
-*   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
-*   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
-*   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
-*   [steambap/captcha](https://github.com/steambap/captcha) - :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-*   [julvo/htmlgo](https://github.com/julvo/htmlgo) - A library for writing type-safe HTML in Golang
-*   [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-*   [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
-*   [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
-*   [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
-*   [go-language-server/protocol](https://github.com/go-language-server/protocol) - Package protocol implements Language Server Protocol specification in Go
-*   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
-*   [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-*   [protocolbuffers/txtpbfmt](https://github.com/protocolbuffers/txtpbfmt) - txtpbfmt parses, edits and formats text proto files in a way that preserves comments.
-*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
-*   [google/kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes.
-*   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-*   [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
-*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-*   [choffmeister/git-describe-semver](https://github.com/choffmeister/git-describe-semver) -
-*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-*   [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
-*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
-*   [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
-*   [ewhauser/bazel-differ](https://github.com/ewhauser/bazel-differ) -
-*   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
-*   [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
-*   [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
-*   [jackskj/protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL Data mapper framework for grpc/protobuf
-*   [alexeagle/bazel-gazelle](https://github.com/alexeagle/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-*   [gg-scm/gg](https://github.com/gg-scm/gg) - Git with less typing
-*   [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
-*   [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [s1ntaxe770r/pawxi](https://github.com/s1ntaxe770r/pawxi) - Dead simple reverse proxy for all your containerized needss
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
 ## miscellaneous
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -971,8 +973,6 @@
 *   [Nick-Mazuk/tsconfig](https://github.com/Nick-Mazuk/tsconfig) - A strict tsconfig for TypeScript projects.
 *   [Nick-Mazuk/gatsby](https://github.com/Nick-Mazuk/gatsby) - Build blazing fast, modern apps and websites with React
 *   [Nick-Mazuk/Nick-Mazuk](https://github.com/Nick-Mazuk/Nick-Mazuk) -
-*   [Nick-Mazuk/google-10000-english](https://github.com/Nick-Mazuk/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-*   [Nick-Mazuk/Tic-Tac-Toe](https://github.com/Nick-Mazuk/Tic-Tac-Toe) -
 
 ## SystemVerilog
 
