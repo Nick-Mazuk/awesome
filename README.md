@@ -73,7 +73,7 @@
 *   [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 *   [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! \[maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 *   [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
-*   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@rycee]
+*   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]
 *   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 *   [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 
