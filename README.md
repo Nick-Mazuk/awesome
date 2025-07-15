@@ -1246,7 +1246,7 @@
 
 ## Haskell
 
-*   [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
+*   [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 *   [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 
