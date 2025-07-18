@@ -83,7 +83,6 @@
 *   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
 *   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-*   [eastspire/hyperlane](https://github.com/eastspire/hyperlane) - Hyperlane is a lightweight and high-performance Rust HTTP server library designed to simplify network service development. It supports HTTP request parsing, response building, TCP communication, and redirection features, making it ideal for building modern web services.
 *   [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 *   [frankmcsherry/timely-dataflow](https://github.com/frankmcsherry/timely-dataflow) - A modular implementation of timely dataflow in Rust
 *   [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
@@ -443,7 +442,6 @@
 *   [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix) - Utilities and variants for styling Radix state
 *   [otonashixav/solid-flip](https://github.com/otonashixav/solid-flip) -
 *   [lxsmnsyc/solid-labels](https://github.com/lxsmnsyc/solid-labels) - Simple, reactive labels for SolidJS
-*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
 *   [lxsmnsyc/solid-sfc-styled-labels-starter](https://github.com/lxsmnsyc/solid-sfc-styled-labels-starter) - A SolidJS starter template with solid-labels, solid-sfc and solid-styled
 *   [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -1025,6 +1023,7 @@
 *   [NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io](https://github.com/NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io) - All the ads, and nothing but them
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
 *   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+*   [bradleymoore111/bradleymoore111.github.io](https://github.com/bradleymoore111/bradleymoore111.github.io) - Overall website :D
 
 ## miscellaneous
 
@@ -1363,6 +1362,7 @@
 
 *   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
+*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
 
 ## Jai
 
