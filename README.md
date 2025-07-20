@@ -200,6 +200,7 @@
 *   [lumol-org/soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust
 *   [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
+*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 *   [ChrisRega/image-compare](https://github.com/ChrisRega/image-compare) - image comparison in rust
 *   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
@@ -289,7 +290,6 @@
 *   [cjdenio/shorty](https://github.com/cjdenio/shorty) - High-performance link shortener
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
 ## TypeScript
 
@@ -620,7 +620,6 @@
 *   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 *   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 *   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
 *   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
 *   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
@@ -1021,6 +1020,7 @@
 *   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
 *   [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 *   [NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io](https://github.com/NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io) - All the ads, and nothing but them
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
 *   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 *   [bradleymoore111/bradleymoore111.github.io](https://github.com/bradleymoore111/bradleymoore111.github.io) - Overall website :D
