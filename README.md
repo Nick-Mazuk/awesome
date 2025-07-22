@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [Nix](#nix)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -13,7 +14,6 @@
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [Ruby](#ruby)
 *   [OCaml](#ocaml)
 *   [Clojure](#clojure)
 *   [ReScript](#rescript)
@@ -66,6 +66,20 @@
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
 *   [Astro](#astro)
+
+## Ruby
+
+*   [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
+*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
+*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
+*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
+*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
+*   [DJMcMayhem/Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak) - A minimalist esolang
 
 ## Nix
 
@@ -937,19 +951,6 @@
 *   [anmolnagpal/alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 *   [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
-## Ruby
-
-*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
-*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
-*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
-*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
-*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
-*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
-*   [DJMcMayhem/Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak) - A minimalist esolang
-
 ## OCaml
 
 *   [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
@@ -1023,7 +1024,6 @@
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
 *   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-*   [bradleymoore111/bradleymoore111.github.io](https://github.com/bradleymoore111/bradleymoore111.github.io) - Overall website :D
 
 ## miscellaneous
 
