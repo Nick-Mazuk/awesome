@@ -1024,7 +1024,6 @@
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
 *   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-*   [bradleymoore111/bradleymoore111.github.io](https://github.com/bradleymoore111/bradleymoore111.github.io) - Overall website :D
 
 ## miscellaneous
 
@@ -1084,6 +1083,7 @@
 *   [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 *   [david-vanderson/dvui](https://github.com/david-vanderson/dvui) -
 *   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
+*   [thechampagne/webview-zig](https://github.com/thechampagne/webview-zig) - ⚡ Zig binding & wrapper for a tiny cross-platform webview library to build modern cross-platform GUIs.
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 *   [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 *   [dmbfm/zig-metal](https://github.com/dmbfm/zig-metal) - Zig bindings for Apple's Metal API.
