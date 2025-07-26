@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Ruby](#ruby)
 *   [Nix](#nix)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
@@ -67,32 +67,9 @@
 *   [LilyPond](#lilypond)
 *   [Astro](#astro)
 
-## Ruby
-
-*   [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
-*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
-*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
-*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
-*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
-*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
-*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
-*   [DJMcMayhem/Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak) - A minimalist esolang
-
-## Nix
-
-*   [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
-*   [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
-*   [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! \[maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
-*   [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
-*   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]
-*   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
-*   [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
-
 ## Rust
 
+*   [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
 *   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -304,6 +281,30 @@
 *   [cjdenio/shorty](https://github.com/cjdenio/shorty) - High-performance link shortener
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+## Ruby
+
+*   [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+*   [rails/solid\_cable](https://github.com/rails/solid_cable) - A database backed ActionCable adapter
+*   [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
+*   [adamwiggins/12factor](https://github.com/adamwiggins/12factor) - Official fork now at: https://github.com/heroku/12factor
+*   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+*   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
+*   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
+*   [DJMcMayhem/Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak) - A minimalist esolang
+
+## Nix
+
+*   [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
+*   [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
+*   [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! \[maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
+*   [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
+*   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]
+*   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
+*   [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 
 ## TypeScript
 
@@ -775,7 +776,7 @@
 *   [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
 *   [bigskysoftware/\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
-*   [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
+*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 *   [ol-th/pdf-img-convert.js](https://github.com/ol-th/pdf-img-convert.js) - Simple node package to convert a PDF into images.
 *   [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
@@ -929,7 +930,6 @@
 *   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 *   [MiguelCastillo/Brackets-wsSanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer) - White Space Sanitizer for Brackets will help you keep your sanity by keeping your white spaces and tabs consistent
 *   [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter
-*   [ncase/matrix](https://github.com/ncase/matrix) - Learn with THE MATRIX
 
 ## Shell
 
