@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Rust](#rust)
 *   [Ruby](#ruby)
 *   [Nix](#nix)
@@ -17,7 +18,6 @@
 *   [OCaml](#ocaml)
 *   [Clojure](#clojure)
 *   [ReScript](#rescript)
-*   [Swift](#swift)
 *   [Gleam](#gleam)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
@@ -66,6 +66,17 @@
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
 *   [Astro](#astro)
+
+## Swift
+
+*   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+*   [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+*   [devwaseem/TempBox](https://github.com/devwaseem/TempBox) - Instant disposable emails for Mac powered by Mail.tm
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+*   [garethgeorge/arkit-memorypalace](https://github.com/garethgeorge/arkit-memorypalace) - An arkit app built for learning purposes with the goal of allowing the user to create a virtual memory palace in a physical space.
 
 ## Rust
 
@@ -976,16 +987,6 @@
 *   [cometkim/rescript-ink](https://github.com/cometkim/rescript-ink) - ReScript bindings for Ink
 *   [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
-## Swift
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-*   [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-*   [devwaseem/TempBox](https://github.com/devwaseem/TempBox) - Instant disposable emails for Mac powered by Mail.tm
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-*   [garethgeorge/arkit-memorypalace](https://github.com/garethgeorge/arkit-memorypalace) - An arkit app built for learning purposes with the goal of allowing the user to create a virtual memory palace in a physical space.
-
 ## Gleam
 
 *   [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
@@ -1064,7 +1065,6 @@
 *   [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love\_letter: Things I've learned about writing good READMEs.
 *   [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 *   [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-*   [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
 
 ## SystemVerilog
 
