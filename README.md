@@ -85,6 +85,7 @@
 *   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
 *   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+*   [eastspire/hyperlane](https://github.com/eastspire/hyperlane) - Hyperlane is a lightweight and high-performance Rust HTTP server library designed to simplify network service development. It supports HTTP request parsing, response building, TCP communication, and redirection features, making it ideal for building modern web services.
 *   [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 *   [frankmcsherry/timely-dataflow](https://github.com/frankmcsherry/timely-dataflow) - A modular implementation of timely dataflow in Rust
 *   [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
@@ -1064,7 +1065,6 @@
 *   [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 *   [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love\_letter: Things I've learned about writing good READMEs.
 *   [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
-*   [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 
 ## SystemVerilog
 
