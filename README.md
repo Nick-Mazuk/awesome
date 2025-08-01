@@ -85,7 +85,7 @@
 *   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
 *   [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-*   [eastspire/hyperlane](https://github.com/eastspire/hyperlane) - Hyperlane is a lightweight and high-performance Rust HTTP server library designed to simplify network service development. It supports HTTP request parsing, response building, TCP communication, and redirection features, making it ideal for building modern web services.
+*   [hyperlane-dev/hyperlane](https://github.com/hyperlane-dev/hyperlane) - A lightweight rust http server with middleware, websocket, sse, and tcp support, built on tokio for cross-platform async networking, hyperlane simplifies modern web service development.
 *   [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 *   [frankmcsherry/timely-dataflow](https://github.com/frankmcsherry/timely-dataflow) - A modular implementation of timely dataflow in Rust
 *   [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
