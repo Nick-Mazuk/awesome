@@ -127,7 +127,7 @@
 *   [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 *   [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
 *   [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
-*   [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+*   [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 *   [go-language-server/protocol](https://github.com/go-language-server/protocol) - Package protocol implements Language Server Protocol specification in Go
 *   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 *   [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
