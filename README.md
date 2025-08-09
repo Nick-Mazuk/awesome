@@ -12,7 +12,6 @@
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Starlark](#starlark)
-*   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [OCaml](#ocaml)
@@ -26,6 +25,7 @@
 *   [Zig](#zig)
 *   [C++](#c)
 *   [C](#c-1)
+*   [Svelte](#svelte)
 *   [Odin](#odin)
 *   [Lua](#lua)
 *   [Haskell](#haskell)
@@ -733,34 +733,9 @@
 *   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
 *   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
 
-## Svelte
-
-*   [michael/svedit](https://github.com/michael/svedit) -
-*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
-*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
-*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
-*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
-*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
-*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
-*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
-*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
-*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
-*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
-*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
-*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
-*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
-*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
-*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
-*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
-*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
-*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
-*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
-*   [Nick-Mazuk/game-of-life](https://github.com/Nick-Mazuk/game-of-life) - A take on Conway's Game of Life but with two "species"
-
 ## JavaScript
 
+*   [michael/svedit](https://github.com/michael/svedit) -
 *   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
 *   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 *   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -1180,6 +1155,31 @@
 *   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 *   [ianh/owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
 *   [diracdeltas/FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
+
+## Svelte
+
+*   [oneezy/monorepo](https://github.com/oneezy/monorepo) - Turborepo + Sveltekit + PNPM + Tailwind + Histoire
+*   [Monokai/monoco-svelte](https://github.com/Monokai/monoco-svelte) - Custom (squircle) corners and borders for Svelte components
+*   [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
+*   [sveltejs/site-kit](https://github.com/sveltejs/site-kit) -
+*   [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
+*   [metonym/svelte-intersection-observer](https://github.com/metonym/svelte-intersection-observer) - Detect if an element is in the viewport using the Intersection Observer API
+*   [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
+*   [aaronstanek/quick-links-docs](https://github.com/aaronstanek/quick-links-docs) -
+*   [stephane-vanraes/renderless-svelte](https://github.com/stephane-vanraes/renderless-svelte) - A collection of renderless Svelte components
+*   [sveltejs/svelte-repl](https://github.com/sveltejs/svelte-repl) - The \<Repl> component used on the Svelte website
+*   [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A \<Scroller> component for Svelte apps
+*   [vatro/svelthree](https://github.com/vatro/svelthree) - Create three.js content using Svelte components.
+*   [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
+*   [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
+*   [finale-lua/jw-lua-scripts-docs](https://github.com/finale-lua/jw-lua-scripts-docs) -
+*   [Nick-Mazuk/ui-svelte](https://github.com/Nick-Mazuk/ui-svelte) - A component library for Svelte
+*   [xnimorz/svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - Input masking component for Svelte with simple API and rich customization
+*   [PuruVJ/macos-web-svelte-dock](https://github.com/PuruVJ/macos-web-svelte-dock) -
+*   [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
+*   [Nick-Mazuk/game-of-life](https://github.com/Nick-Mazuk/game-of-life) - A take on Conway's Game of Life but with two "species"
 
 ## Odin
 
