@@ -448,7 +448,7 @@
 *   [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 *   [bazel-contrib/publish-to-bcr](https://github.com/bazel-contrib/publish-to-bcr) - A GitHub app that mirrors releases of your Bazel ruleset to the Central Registry
 *   [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-*   [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
+*   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 *   [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 *   [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
 *   [stolinski/zero-svelte](https://github.com/stolinski/zero-svelte) -
