@@ -84,7 +84,6 @@
 *   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 *   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 *   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 *   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
@@ -699,9 +698,7 @@
 
 *   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 *   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
-*   [theoremlp/rules\_multitool](https://github.com/theoremlp/rules_multitool) - Bazel rules for ergonomic tool definitions
 *   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
-*   [theoremlp/rules\_uv](https://github.com/theoremlp/rules_uv) - Bazel rules for running uv
 *   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
 *   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
 *   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
@@ -918,6 +915,8 @@
 *   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 *   [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 *   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+*   [MiguelCastillo/Brackets-wsSanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer) - White Space Sanitizer for Brackets will help you keep your sanity by keeping your white spaces and tabs consistent
+*   [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter
 
 ## Shell
 
@@ -1128,6 +1127,7 @@
 *   [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 *   [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig.
 *   [svanderburg/disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
+*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 *   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 *   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
