@@ -66,10 +66,11 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
-*   [Astro](#astro)
 
 ## JavaScript
 
+*   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 *   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
 *   [michael/svedit](https://github.com/michael/svedit) -
 *   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
@@ -864,7 +865,6 @@
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 *   [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-*   [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 
 ## Python
 
@@ -1452,7 +1452,3 @@
 ## LilyPond
 
 *   [openmusictheory/openmusictheory.github.io](https://github.com/openmusictheory/openmusictheory.github.io) - A growing, online "textbook" for music theory and aural skills
-
-## Astro
-
-*   [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
