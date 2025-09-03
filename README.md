@@ -651,7 +651,7 @@
 *   [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 *   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 *   [dcrebbin/cursor-learner](https://github.com/dcrebbin/cursor-learner) - Transform your Cursor chat history into targeted prompts for actionable AI feedback.
-*   [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 Server-oriented customizable templating for JavaScript. Alternative to HTMX and Alpine.js.
+*   [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small.
 *   [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
 *   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
