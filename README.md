@@ -705,7 +705,7 @@
 *   [nicojs/typed-html](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [dichovsky/pdf-to-png-converter](https://github.com/dichovsky/pdf-to-png-converter) - Library Convert PDF to PNG
-*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
 *   [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 *   [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 *   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -1383,7 +1383,7 @@
 ## Scala
 
 *   [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
-*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 *   [guardian/typerighter](https://github.com/guardian/typerighter) - Even if you’re the right typer, couldn’t hurt to use Typerighter!
 
 ## Vim script
