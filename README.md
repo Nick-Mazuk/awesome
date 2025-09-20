@@ -499,7 +499,7 @@
 *   [NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io](https://github.com/NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io) - All the ads, and nothing but them
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Go
 
