@@ -804,7 +804,6 @@
 *   [NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io](https://github.com/NothingButAdsAllTheAds/NothingButAdsAllTheAds.github.io) - All the ads, and nothing but them
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 *   [ncase/ballot](https://github.com/ncase/ballot) - An interactive guide to alternative voting systems
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Go
 
@@ -1367,6 +1366,7 @@
 *   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 *   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
+*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Jai
 
