@@ -341,7 +341,7 @@
 *   [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
 *   [noahsalvi/svelte-use-form](https://github.com/noahsalvi/svelte-use-form) - The most compact reactive form controller (including Validation) that you'll ever see.
 *   [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-*   [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
+*   [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Deprecated repo. Moved all work to https://github.com/supabase/supabase-js
 *   [technote-space/auto-cancel-redundant-workflow](https://github.com/technote-space/auto-cancel-redundant-workflow) - GitHub Actions to automatically cancel redundant workflow.
 *   [FilledStacks/firebase-backend](https://github.com/FilledStacks/firebase-backend) - A package that helps with the management and expansion of a maintainable firebase backend
 *   [wellyshen/react-cool-inview](https://github.com/wellyshen/react-cool-inview) - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
@@ -355,7 +355,6 @@
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 *   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 *   [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 *   [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
@@ -1290,6 +1289,7 @@
 
 *   [pintariching/railwind](https://github.com/pintariching/railwind) - Tailwind compiler rewritten in rust
 *   [heroku/12factor](https://github.com/heroku/12factor) -
+*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 *   [Nick-Mazuk/Lightening-CSS](https://github.com/Nick-Mazuk/Lightening-CSS) - A lightweight, flexible, and responsive CSS framework. Uses the CUBE CSS methodology.
 *   [Nick-Mazuk/quantum-chess](https://github.com/Nick-Mazuk/quantum-chess) - It's chess, but quantum
 *   [Nick-Mazuk/Navigation-Bar](https://github.com/Nick-Mazuk/Navigation-Bar) -
