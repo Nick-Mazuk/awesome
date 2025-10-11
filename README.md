@@ -143,7 +143,6 @@
 *   [choffmeister/git-describe-semver](https://github.com/choffmeister/git-describe-semver) -
 *   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 *   [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
-*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
 *   [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
 *   [ewhauser/bazel-differ](https://github.com/ewhauser/bazel-differ) -
 *   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
@@ -1064,6 +1063,7 @@
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 *   [JamieMason/syncpack-github-action](https://github.com/JamieMason/syncpack-github-action) - A GitHub Action to synchronise monorepo dependency versions with syncpack.
 *   [lfades/static-tweet](https://github.com/lfades/static-tweet) -
+*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
 *   [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
 *   [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
