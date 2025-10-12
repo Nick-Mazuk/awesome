@@ -318,7 +318,7 @@
 *   [bheisler/iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
 *   [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 *   [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) - Website for graphing performance of rustc
-*   [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust
+*   [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl) - OpenSSL bindings for Rust
 *   [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 *   [rust-analyzer/smol\_str](https://github.com/rust-analyzer/smol_str) -
 *   [ParkMyCar/compact\_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24\* bytes on the stack
@@ -1109,7 +1109,7 @@
 *   [dmbfm/zig-metal](https://github.com/dmbfm/zig-metal) - Zig bindings for Apple's Metal API.
 *   [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 *   [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy) - A data serialization language for expressing clear API messages, config files, etc.
-*   [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Linter, Formatter, LSP, and Templating Language Library
+*   [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 *   [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 *   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 *   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
