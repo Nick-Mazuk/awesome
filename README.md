@@ -351,6 +351,7 @@
 *   [nathankleyn/gitignore.rs](https://github.com/nathankleyn/gitignore.rs) - Implementation of .gitignore file parsing and glob testing in Rust.
 *   [cloudflare/dkim](https://github.com/cloudflare/dkim) - DKIM (RFC6376) implementation
 *   [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
+*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
 *   [ebkalderon/example-fault-tolerant-parser](https://github.com/ebkalderon/example-fault-tolerant-parser) - Fault-tolerant nom 5 parser based on "Syntax error recovery in parsing expression grammars" (2018)
 *   [andylokandy/nom-rule](https://github.com/andylokandy/nom-rule) - A procedural macro for defining nom combinators in simple DSL
 *   [Nick-Mazuk/prettify](https://github.com/Nick-Mazuk/prettify) - An extensible, language-agnostic, Rust-based code formatter based on Prettier.
@@ -530,7 +531,7 @@
 *   [nicojs/typed-html](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [dichovsky/pdf-to-png-converter](https://github.com/dichovsky/pdf-to-png-converter) - Library Convert PDF to PNG
-*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
+*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 *   [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 *   [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 *   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -1063,7 +1064,6 @@
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 *   [JamieMason/syncpack-github-action](https://github.com/JamieMason/syncpack-github-action) - A GitHub Action to synchronise monorepo dependency versions with syncpack.
 *   [lfades/static-tweet](https://github.com/lfades/static-tweet) -
-*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
 *   [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
 *   [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
