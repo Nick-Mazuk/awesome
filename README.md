@@ -70,6 +70,9 @@
 
 ## Go
 
+*   [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
+*   [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
+*   [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 *   [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 *   [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 *   [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
@@ -161,8 +164,6 @@
 *   [fogleman/pack3d](https://github.com/fogleman/pack3d) - Tightly pack 3D models.
 *   [thelastpenguin/HarmonyMedia](https://github.com/thelastpenguin/HarmonyMedia) - Watch movies and shows socially with your friends!
 *   [zachlatta/try](https://github.com/zachlatta/try) - try repos you find online
-*   [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
-*   [fogleman/pt](https://github.com/fogleman/pt) - A path tracer written in Go.
 
 ## Rust
 
@@ -1370,7 +1371,6 @@
 *   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 *   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Jai
 
