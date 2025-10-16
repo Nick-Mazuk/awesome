@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Starlark](#starlark)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [Assembly](#assembly)
@@ -16,7 +17,6 @@
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Python](#python)
-*   [Starlark](#starlark)
 *   [OCaml](#ocaml)
 *   [Clojure](#clojure)
 *   [ReScript](#rescript)
@@ -67,6 +67,43 @@
 *   [TeX](#tex)
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
+
+## Starlark
+
+*   [bazel-contrib/rules\_dotnet](https://github.com/bazel-contrib/rules_dotnet) - .NET rules for Bazel
+*   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+*   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
+*   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
+*   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
+*   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
+*   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
+*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
+*   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
+*   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
+*   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
+*   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
+*   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
+*   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
+*   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
+*   [bazel-contrib/rules\_jvm\_external](https://github.com/bazel-contrib/rules_jvm_external) - Bazel rules to resolve, fetch and export Maven artifacts
+*   [bazelbuild/rules\_kotlin](https://github.com/bazelbuild/rules_kotlin) - Bazel rules for Kotlin
+*   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+*   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
+*   [bazelbuild/rules\_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
+*   [aspect-build/rules\_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
+*   [jf-marino/example-bazel-sveltekit](https://github.com/jf-marino/example-bazel-sveltekit) - Initial template for a monorepo with bazel and sveltekit
+*   [aspect-build/rules\_ts](https://github.com/aspect-build/rules_ts) - Bazel rules for the `tsc` compiler from http://typescriptlang.org
+*   [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux.
+*   [salesforce/bazel-mystery](https://github.com/salesforce/bazel-mystery) - An interactive way to learn bazel.
+*   [aspect-build/rules\_esbuild](https://github.com/aspect-build/rules_esbuild) - Bazel rules for https://esbuild.github.io/ JS bundler
+*   [aspect-build/rules\_swc](https://github.com/aspect-build/rules_swc) - Bazel rules for the swc toolchain https://swc.rs/
+*   [bazel-contrib/rules\_nodejs](https://github.com/bazel-contrib/rules_nodejs) - NodeJS toolchain for Bazel.
+*   [apple/apple\_rules\_lint](https://github.com/apple/apple_rules_lint) - A framework for adding lint checks to Bazel projects
+*   [typedb/bazel-distribution](https://github.com/typedb/bazel-distribution) - Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)
+*   [iocat/rules\_rescript](https://github.com/iocat/rules_rescript) - Bazel Rules for Rescript
+*   [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
+*   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
+*   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
 
 ## Go
 
@@ -675,6 +712,7 @@
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 *   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 *   [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 *   [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
@@ -827,7 +865,6 @@
 *   [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) -
 *   [klaviyo/node-klaviyo](https://github.com/klaviyo/node-klaviyo) -
 *   [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 *   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -973,42 +1010,6 @@
 *   [facelessuser/HexViewer](https://github.com/facelessuser/HexViewer) - Hex viewer and editor for SublimeText
 *   [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 
-## Starlark
-
-*   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
-*   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
-*   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
-*   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
-*   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
-*   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
-*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
-*   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
-*   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
-*   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
-*   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
-*   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
-*   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
-*   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
-*   [bazel-contrib/rules\_jvm\_external](https://github.com/bazel-contrib/rules_jvm_external) - Bazel rules to resolve, fetch and export Maven artifacts
-*   [bazelbuild/rules\_kotlin](https://github.com/bazelbuild/rules_kotlin) - Bazel rules for Kotlin
-*   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-*   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
-*   [bazelbuild/rules\_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
-*   [aspect-build/rules\_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
-*   [jf-marino/example-bazel-sveltekit](https://github.com/jf-marino/example-bazel-sveltekit) - Initial template for a monorepo with bazel and sveltekit
-*   [aspect-build/rules\_ts](https://github.com/aspect-build/rules_ts) - Bazel rules for the `tsc` compiler from http://typescriptlang.org
-*   [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux.
-*   [salesforce/bazel-mystery](https://github.com/salesforce/bazel-mystery) - An interactive way to learn bazel.
-*   [aspect-build/rules\_esbuild](https://github.com/aspect-build/rules_esbuild) - Bazel rules for https://esbuild.github.io/ JS bundler
-*   [aspect-build/rules\_swc](https://github.com/aspect-build/rules_swc) - Bazel rules for the swc toolchain https://swc.rs/
-*   [bazel-contrib/rules\_nodejs](https://github.com/bazel-contrib/rules_nodejs) - NodeJS toolchain for Bazel.
-*   [apple/apple\_rules\_lint](https://github.com/apple/apple_rules_lint) - A framework for adding lint checks to Bazel projects
-*   [typedb/bazel-distribution](https://github.com/typedb/bazel-distribution) - Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)
-*   [iocat/rules\_rescript](https://github.com/iocat/rules_rescript) - Bazel Rules for Rescript
-*   [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
-*   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
-*   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
-
 ## OCaml
 
 *   [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
@@ -1085,7 +1086,6 @@
 *   [Nick-Mazuk/ASL](https://github.com/Nick-Mazuk/ASL) -
 *   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 *   [garethgeorge/arkit-memorypalace-report](https://github.com/garethgeorge/arkit-memorypalace-report) - report for UCSB assignment ARKit Memory Palace
-*   [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## SystemVerilog
 
