@@ -222,6 +222,7 @@
 *   [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix) - Utilities and variants for styling Radix state
 *   [otonashixav/solid-flip](https://github.com/otonashixav/solid-flip) -
 *   [lxsmnsyc/solid-labels](https://github.com/lxsmnsyc/solid-labels) - Simple, reactive labels for SolidJS
+*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
 *   [lxsmnsyc/solid-sfc-styled-labels-starter](https://github.com/lxsmnsyc/solid-sfc-styled-labels-starter) - A SolidJS starter template with solid-labels, solid-sfc and solid-styled
 *   [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -1370,7 +1371,6 @@
 
 *   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
-*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
 
 ## Jai
 
