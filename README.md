@@ -4,21 +4,21 @@
 
 ## Table of Contents
 
-*   [Go](#go)
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
+*   [Clojure](#clojure)
+*   [C++](#c)
+*   [Go](#go)
 *   [Rust](#rust)
 *   [Starlark](#starlark)
 *   [Assembly](#assembly)
-*   [C++](#c)
 *   [Shell](#shell)
 *   [Nix](#nix)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Python](#python)
 *   [OCaml](#ocaml)
-*   [Clojure](#clojure)
 *   [ReScript](#rescript)
 *   [PLpgSQL](#plpgsql)
 *   [Gleam](#gleam)
@@ -68,106 +68,193 @@
 *   [Vue](#vue)
 *   [LilyPond](#lilypond)
 
-## Go
+## JavaScript
 
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-*   [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
-*   [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
-*   [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
-*   [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-*   [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
-*   [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
-*   [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code.
-*   [buchgr/bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel
-*   [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
-*   [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-*   [bazel-contrib/rules\_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
-*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-*   [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-*   [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
-*   [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
-*   [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-*   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
-*   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
-*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-*   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
-*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-*   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
-*   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
-*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-*   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
-*   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
-*   [katallaxie/fiber-htmx](https://github.com/katallaxie/fiber-htmx) - 🔨Create HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
-*   [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
-*   [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-*   [emarifer/gofiber-templ-htmx](https://github.com/emarifer/gofiber-templ-htmx) - Go/Fiber🧬+\</>Templ to-do list app with user login and HTMx-powered frontend.
-*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-*   [CloudyKit/jet](https://github.com/CloudyKit/jet) - Jet  template engine
-*   [mattn/go-slim](https://github.com/mattn/go-slim) - Slim Template Engine for golang
-*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
-*   [go-errors/errors](https://github.com/go-errors/errors) - errors with stacktraces for go
-*   [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
-*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-*   [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-*   [nishanths/exhaustive](https://github.com/nishanths/exhaustive) - Check exhaustiveness of switch statements of enum-like constants in Go source code.
-*   [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-*   [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
-*   [healeycodes/noter](https://github.com/healeycodes/noter) - 📝 A text editor for macOS. Built using the Ebitengine game engine.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
-*   [ostafen/clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
-*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-*   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-*   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
-*   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
-*   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
-*   [steambap/captcha](https://github.com/steambap/captcha) - :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-*   [julvo/htmlgo](https://github.com/julvo/htmlgo) - A library for writing type-safe HTML in Golang
-*   [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-*   [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
-*   [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
-*   [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
-*   [go-language-server/protocol](https://github.com/go-language-server/protocol) - Package protocol implements Language Server Protocol specification in Go
-*   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
-*   [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-*   [protocolbuffers/txtpbfmt](https://github.com/protocolbuffers/txtpbfmt) - txtpbfmt parses, edits and formats text proto files in a way that preserves comments.
-*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
-*   [google/kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes.
-*   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-*   [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
-*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-*   [choffmeister/git-describe-semver](https://github.com/choffmeister/git-describe-semver) -
-*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-*   [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
-*   [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
-*   [ewhauser/bazel-differ](https://github.com/ewhauser/bazel-differ) -
-*   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
-*   [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
-*   [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
-*   [jackskj/protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL Data mapper framework for grpc/protobuf
-*   [alexeagle/bazel-gazelle](https://github.com/alexeagle/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-*   [gg-scm/gg](https://github.com/gg-scm/gg) - Git with less typing
-*   [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
-*   [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [s1ntaxe770r/pawxi](https://github.com/s1ntaxe770r/pawxi) - Dead simple reverse proxy for all your containerized needss
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-*   [gleich/nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
-*   [fogleman/pack3d](https://github.com/fogleman/pack3d) - Tightly pack 3D models.
-*   [thelastpenguin/HarmonyMedia](https://github.com/thelastpenguin/HarmonyMedia) - Watch movies and shows socially with your friends!
-*   [zachlatta/try](https://github.com/zachlatta/try) - try repos you find online
+*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
+*   [quadstorejs/quadstore](https://github.com/quadstorejs/quadstore) - A LevelDB-backed graph database for JS runtimes (Node.js, Deno, browsers, ...) supporting SPARQL queries and the RDF/JS interface.
+*   [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
+*   [crubier/Hexastore](https://github.com/crubier/Hexastore) - A fast, pure javascript triple store implementation, also useful as a graph database.
+*   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+*   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
+*   [michael/svedit](https://github.com/michael/svedit) -
+*   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
+*   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
+*   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+*   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd?
+*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+*   [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
+*   [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
+*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+*   [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+*   [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
+*   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
+*   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
+*   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+*   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
+*   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
+*   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
+*   [rolldown-old/old-rolldown](https://github.com/rolldown-old/old-rolldown) - Modern bundler built on Rollup with couple more features, such as multiple entry points, presets, better configuration experience and more.
+*   [stanleyfok/content-based-recommender](https://github.com/stanleyfok/content-based-recommender) - A simple content-based recommender implemented in javascript
+*   [focus-trap/tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order
+*   [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
+*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+*   [adRise/update-pr-branch](https://github.com/adRise/update-pr-branch) - Github Action to automatically update PR branches that match the criteria. Designed to work with the Github `auto-merge` feature.
+*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+*   [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
+*   [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
+*   [bigskysoftware/\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
+*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
+*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+*   [ol-th/pdf-img-convert.js](https://github.com/ol-th/pdf-img-convert.js) - Simple node package to convert a PDF into images.
+*   [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
+*   [pqina/svelte-filepond](https://github.com/pqina/svelte-filepond) - 🔌 A handy FilePond adapter component for Svelte
+*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
+*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+*   [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
+*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
+*   [filamentgroup/glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+*   [ncase/blog](https://github.com/ncase/blog) - This is my bloooggggggggg
+*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+*   [boa-dev/criterion-compare-action](https://github.com/boa-dev/criterion-compare-action) - ⚡️📊 Compare the performance of Rust project branches
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
+*   [Satak/webrequest-action](https://github.com/Satak/webrequest-action) - GitHub action for web requests
+*   [eregon/publish-release](https://github.com/eregon/publish-release) - A GitHub Action to publish a draft release
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+*   [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
+*   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
+*   [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request
+*   [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
+*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+*   [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
+*   [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+*   [cazala/mnist](https://github.com/cazala/mnist) - mnist digits in javascript
+*   [finos/cla-bot](https://github.com/finos/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
+*   [ColinEberhardt/cla-bot](https://github.com/ColinEberhardt/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
+*   [aaronstanek/quick\_links\_chrome](https://github.com/aaronstanek/quick_links_chrome) - Fast in-browser go-links implementation
+*   [eslint/markdown](https://github.com/eslint/markdown) - Lint JavaScript code blocks in Markdown documents
+*   [mafintosh/protocol-buffers-schema](https://github.com/mafintosh/protocol-buffers-schema) - No nonsense protocol buffers schema parser written in Javascript
+*   [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
+*   [mathiasbynens/luamin](https://github.com/mathiasbynens/luamin) - A Lua minifier written in JavaScript
+*   [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
+*   [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+*   [NodeGuy/JavaScript-fuzz](https://github.com/NodeGuy/JavaScript-fuzz) - generates random values of standard, built-in JavaScript types for fuzz testing
+*   [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
+*   [sawyerh/eslint-plugin-todo-plz](https://github.com/sawyerh/eslint-plugin-todo-plz) - Enforce consistent and maintainable TODO comments
+*   [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+*   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+*   [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
+*   [sabinbajracharya/Svelte-with-Rescript](https://github.com/sabinbajracharya/Svelte-with-Rescript) - A project to showcase the use of ReScript to write Svelte Apps
+*   [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
+*   [hackclub/muse](https://github.com/hackclub/muse) - 🎸 a simple language for jamming!
+*   [ncase/nutshell-beta](https://github.com/ncase/nutshell-beta) - Nutshell Beta!
+*   [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
+*   [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
+*   [argyleink/roving-ux](https://github.com/argyleink/roving-ux) - stateful roving index for web ui
+*   [bvaughn/js-search](https://github.com/bvaughn/js-search) - JS Search is an efficient, client-side search library for JavaScript and JSON objects
+*   [bvaughn/js-worker-search](https://github.com/bvaughn/js-worker-search) - JavaScript client-side search API with web-worker support
+*   [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+*   [verbose/verb-generate-readme](https://github.com/verbose/verb-generate-readme) - Generate your project's readme with verb. Requires verb v0.9.0 or higher.
+*   [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink is an AI palette generator trained with the Tailwindcss colors.
+*   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+*   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
+*   [ls-age/svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
+*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+*   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
+*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
+*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+*   [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
+*   [nenadpnc/cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, typescript
+*   [Nick-Mazuk/semantic-release-config](https://github.com/Nick-Mazuk/semantic-release-config) - semantic-release config
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+*   [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
+*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+*   [jaredpalmer/cypress-image-snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress
+*   [bahmutov/cypress-svelte-unit-test](https://github.com/bahmutov/cypress-svelte-unit-test) - Unit testing Svelte components in Cypress E2E test runner
+*   [meinaart/cypress-plugin-snapshots](https://github.com/meinaart/cypress-plugin-snapshots) - Plugin for snapshot tests in Cypress.io
+*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+*   [vinaypillai/ac-colors](https://github.com/vinaypillai/ac-colors) - ac-colors is a reactive JavaScript color library that can freely convert between RGB, HSL, HEX, XYZ, LAB, LCHab, LUV, and LCHuv, as well as handle random color generation and contrast ratio calculation.
+*   [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - ⚠️ MOVED: https://github.com/svelte-add/svelte-add/ ⚠️ Add mdsvex to your Svelte project
+*   [romkor/svelte-portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component
+*   [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
+*   [albinotonnina/albinotonnina.com](https://github.com/albinotonnina/albinotonnina.com) - Personal portfolio website with interactive animations and visual storytelling. Built with React, featuring modular scene management, comprehensive testing, and smooth cross-device performance.
+*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+*   [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
+*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+*   [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
+*   [Rich-Harris/svg-parser](https://github.com/Rich-Harris/svg-parser) -
+*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
+*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
+*   [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
+*   [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
+*   [itaditya/storycruise](https://github.com/itaditya/storycruise) - The incredible speed of Snowpack now for Storybook
+*   [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+*   [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
+*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+*   [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) -
+*   [klaviyo/node-klaviyo](https://github.com/klaviyo/node-klaviyo) -
+*   [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
+*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+*   [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+*   [Nick-Mazuk/eslint-config](https://github.com/Nick-Mazuk/eslint-config) - A highly opinionated ESLint config.
+*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+*   [nkbt/react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height
+*   [garethgeorge/harmonysync](https://github.com/garethgeorge/harmonysync) - a chrome extension for synchronizing video playback
+*   [kellym/smartquotes.js](https://github.com/kellym/smartquotes.js) - Smart quotes are smart typography, and now it’s just a ’script away.
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+*   [aaronstanekhosting/gen-show3](https://github.com/aaronstanekhosting/gen-show3) -
+*   [aaronstanek/gen-show3](https://github.com/aaronstanek/gen-show3) -
+*   [Nick-Mazuk/balanced-text](https://github.com/Nick-Mazuk/balanced-text) - A performance-optimized script for balancing text in browser.
+*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+*   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
+*   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
+*   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
+*   [Nick-Mazuk/javascript-helper](https://github.com/Nick-Mazuk/javascript-helper) - Tool that will help make javascript code easier in many ways
+*   [Nick-Mazuk/breakout](https://github.com/Nick-Mazuk/breakout) - My version of the game Breakout
+*   [Nick-Mazuk/pong](https://github.com/Nick-Mazuk/pong) - My version of the game Pong
+*   [Nick-Mazuk/brick](https://github.com/Nick-Mazuk/brick) - A create-your-own-adventure game for my English Existentialist project
+*   [Nick-Mazuk/day-of-the-week](https://github.com/Nick-Mazuk/day-of-the-week) - A quiz to help mentally calculate days of the week for any day this century and vice versa
+*   [Nick-Mazuk/geopattern](https://github.com/Nick-Mazuk/geopattern) - Generate beautiful SVG patterns
+*   [Nick-Mazuk/collatz](https://github.com/Nick-Mazuk/collatz) - A calculator that simply returns the path of evens and odds for the collatz conjecture.
+*   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
+*   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
+*   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
+*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
+*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+*   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
+*   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+*   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
+*   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
+*   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
+*   [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
+*   [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
+*   [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
+*   [thelastpenguin/HarmonyMediaUI](https://github.com/thelastpenguin/HarmonyMediaUI) - the client portion of the harmony media server
 
 ## TypeScript
 
+*   [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
+*   [datalogui/datalog](https://github.com/datalogui/datalog) - Build UI declaratively with Datalog.
 *   [MichiganTypeScript/type-testing](https://github.com/MichiganTypeScript/type-testing) - 🌱 A micro library for testing your TypeScript types
 *   [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 *   [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
@@ -405,7 +492,147 @@
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-*   [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
+
+## Clojure
+
+*   [tonsky/vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster) - A light theme for Visual Studio Code
+*   [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
+*   [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+
+## C++
+
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
+*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
+*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
+*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
+*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
+*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
+*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
+*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
+*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
+*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+## Go
+
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+*   [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
+*   [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
+*   [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
+*   [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+*   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
+*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+*   [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code.
+*   [buchgr/bazel-remote](https://github.com/buchgr/bazel-remote) - A remote cache for Bazel
+*   [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
+*   [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+*   [bazel-contrib/rules\_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
+*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+*   [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+*   [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+*   [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
+*   [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
+*   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
+*   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
+*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+*   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+*   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
+*   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
+*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+*   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
+*   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+*   [katallaxie/fiber-htmx](https://github.com/katallaxie/fiber-htmx) - 🔨Create HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
+*   [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
+*   [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+*   [emarifer/gofiber-templ-htmx](https://github.com/emarifer/gofiber-templ-htmx) - Go/Fiber🧬+\</>Templ to-do list app with user login and HTMx-powered frontend.
+*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+*   [CloudyKit/jet](https://github.com/CloudyKit/jet) - Jet  template engine
+*   [mattn/go-slim](https://github.com/mattn/go-slim) - Slim Template Engine for golang
+*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+*   [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+*   [go-errors/errors](https://github.com/go-errors/errors) - errors with stacktraces for go
+*   [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
+*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+*   [ent/ent](https://github.com/ent/ent) - An entity framework for Go
+*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+*   [nishanths/exhaustive](https://github.com/nishanths/exhaustive) - Check exhaustiveness of switch statements of enum-like constants in Go source code.
+*   [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+*   [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
+*   [healeycodes/noter](https://github.com/healeycodes/noter) - 📝 A text editor for macOS. Built using the Ebitengine game engine.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+*   [ostafen/clover](https://github.com/ostafen/clover) - A lightweight document-oriented NoSQL database written in pure Golang.
+*   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+*   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+*   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
+*   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
+*   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
+*   [steambap/captcha](https://github.com/steambap/captcha) - :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [julvo/htmlgo](https://github.com/julvo/htmlgo) - A library for writing type-safe HTML in Golang
+*   [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+*   [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
+*   [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
+*   [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
+*   [go-language-server/protocol](https://github.com/go-language-server/protocol) - Package protocol implements Language Server Protocol specification in Go
+*   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+*   [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
+*   [protocolbuffers/txtpbfmt](https://github.com/protocolbuffers/txtpbfmt) - txtpbfmt parses, edits and formats text proto files in a way that preserves comments.
+*   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
+*   [google/kf](https://github.com/google/kf) - Feels like Cloud Foundry. Runs on Kubernetes.
+*   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+*   [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
+*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [choffmeister/git-describe-semver](https://github.com/choffmeister/git-describe-semver) -
+*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+*   [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
+*   [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
+*   [ewhauser/bazel-differ](https://github.com/ewhauser/bazel-differ) -
+*   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+*   [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
+*   [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
+*   [jackskj/protoc-gen-map](https://github.com/jackskj/protoc-gen-map) - SQL Data mapper framework for grpc/protobuf
+*   [alexeagle/bazel-gazelle](https://github.com/alexeagle/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+*   [gg-scm/gg](https://github.com/gg-scm/gg) - Git with less typing
+*   [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
+*   [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [s1ntaxe770r/pawxi](https://github.com/s1ntaxe770r/pawxi) - Dead simple reverse proxy for all your containerized needss
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+*   [gleich/nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
+*   [fogleman/pack3d](https://github.com/fogleman/pack3d) - Tightly pack 3D models.
+*   [thelastpenguin/HarmonyMedia](https://github.com/thelastpenguin/HarmonyMedia) - Watch movies and shows socially with your friends!
 
 ## Rust
 
@@ -668,44 +895,6 @@
 
 *   [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 
-## C++
-
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
-*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
-*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
-*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
-*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
-*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
-*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
-*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
-*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
-*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
-*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [mapbox/polylabel](https://github.com/mapbox/polylabel) - A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++)
-
 ## Shell
 
 *   [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -736,187 +925,6 @@
 *   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]
 *   [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 *   [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
-
-## JavaScript
-
-*   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-*   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
-*   [michael/svedit](https://github.com/michael/svedit) -
-*   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
-*   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
-*   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-*   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-*   [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd?
-*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
-*   [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
-*   [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
-*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-*   [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-*   [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
-*   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-*   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
-*   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
-*   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
-*   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
-*   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
-*   [rolldown-old/old-rolldown](https://github.com/rolldown-old/old-rolldown) - Modern bundler built on Rollup with couple more features, such as multiple entry points, presets, better configuration experience and more.
-*   [stanleyfok/content-based-recommender](https://github.com/stanleyfok/content-based-recommender) - A simple content-based recommender implemented in javascript
-*   [focus-trap/tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order
-*   [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
-*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-*   [adRise/update-pr-branch](https://github.com/adRise/update-pr-branch) - Github Action to automatically update PR branches that match the criteria. Designed to work with the Github `auto-merge` feature.
-*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
-*   [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-*   [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
-*   [bigskysoftware/\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
-*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
-*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [ol-th/pdf-img-convert.js](https://github.com/ol-th/pdf-img-convert.js) - Simple node package to convert a PDF into images.
-*   [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
-*   [pqina/svelte-filepond](https://github.com/pqina/svelte-filepond) - 🔌 A handy FilePond adapter component for Svelte
-*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
-*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-*   [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
-*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
-*   [filamentgroup/glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
-*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
-*   [ncase/blog](https://github.com/ncase/blog) - This is my bloooggggggggg
-*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-*   [boa-dev/criterion-compare-action](https://github.com/boa-dev/criterion-compare-action) - ⚡️📊 Compare the performance of Rust project branches
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-*   [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
-*   [Satak/webrequest-action](https://github.com/Satak/webrequest-action) - GitHub action for web requests
-*   [eregon/publish-release](https://github.com/eregon/publish-release) - A GitHub Action to publish a draft release
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-*   [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
-*   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-*   [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request
-*   [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
-*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-*   [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
-*   [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-*   [cazala/mnist](https://github.com/cazala/mnist) - mnist digits in javascript
-*   [finos/cla-bot](https://github.com/finos/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
-*   [ColinEberhardt/cla-bot](https://github.com/ColinEberhardt/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
-*   [aaronstanek/quick\_links\_chrome](https://github.com/aaronstanek/quick_links_chrome) - Fast in-browser go-links implementation
-*   [eslint/markdown](https://github.com/eslint/markdown) - Lint JavaScript code blocks in Markdown documents
-*   [mafintosh/protocol-buffers-schema](https://github.com/mafintosh/protocol-buffers-schema) - No nonsense protocol buffers schema parser written in Javascript
-*   [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
-*   [mathiasbynens/luamin](https://github.com/mathiasbynens/luamin) - A Lua minifier written in JavaScript
-*   [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
-*   [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-*   [NodeGuy/JavaScript-fuzz](https://github.com/NodeGuy/JavaScript-fuzz) - generates random values of standard, built-in JavaScript types for fuzz testing
-*   [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
-*   [sawyerh/eslint-plugin-todo-plz](https://github.com/sawyerh/eslint-plugin-todo-plz) - Enforce consistent and maintainable TODO comments
-*   [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-*   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
-*   [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
-*   [sabinbajracharya/Svelte-with-Rescript](https://github.com/sabinbajracharya/Svelte-with-Rescript) - A project to showcase the use of ReScript to write Svelte Apps
-*   [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
-*   [hackclub/muse](https://github.com/hackclub/muse) - 🎸 a simple language for jamming!
-*   [ncase/nutshell-beta](https://github.com/ncase/nutshell-beta) - Nutshell Beta!
-*   [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
-*   [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
-*   [argyleink/roving-ux](https://github.com/argyleink/roving-ux) - stateful roving index for web ui
-*   [bvaughn/js-search](https://github.com/bvaughn/js-search) - JS Search is an efficient, client-side search library for JavaScript and JSON objects
-*   [bvaughn/js-worker-search](https://github.com/bvaughn/js-worker-search) - JavaScript client-side search API with web-worker support
-*   [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-*   [verbose/verb-generate-readme](https://github.com/verbose/verb-generate-readme) - Generate your project's readme with verb. Requires verb v0.9.0 or higher.
-*   [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink is an AI palette generator trained with the Tailwindcss colors.
-*   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
-*   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
-*   [ls-age/svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
-*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
-*   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
-*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
-*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-*   [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
-*   [nenadpnc/cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, typescript
-*   [Nick-Mazuk/semantic-release-config](https://github.com/Nick-Mazuk/semantic-release-config) - semantic-release config
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-*   [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
-*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-*   [jaredpalmer/cypress-image-snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress
-*   [bahmutov/cypress-svelte-unit-test](https://github.com/bahmutov/cypress-svelte-unit-test) - Unit testing Svelte components in Cypress E2E test runner
-*   [meinaart/cypress-plugin-snapshots](https://github.com/meinaart/cypress-plugin-snapshots) - Plugin for snapshot tests in Cypress.io
-*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-*   [vinaypillai/ac-colors](https://github.com/vinaypillai/ac-colors) - ac-colors is a reactive JavaScript color library that can freely convert between RGB, HSL, HEX, XYZ, LAB, LCHab, LUV, and LCHuv, as well as handle random color generation and contrast ratio calculation.
-*   [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - ⚠️ MOVED: https://github.com/svelte-add/svelte-add/ ⚠️ Add mdsvex to your Svelte project
-*   [romkor/svelte-portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component
-*   [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
-*   [albinotonnina/albinotonnina.com](https://github.com/albinotonnina/albinotonnina.com) - Personal portfolio website with interactive animations and visual storytelling. Built with React, featuring modular scene management, comprehensive testing, and smooth cross-device performance.
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-*   [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
-*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-*   [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
-*   [Rich-Harris/svg-parser](https://github.com/Rich-Harris/svg-parser) -
-*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-*   [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
-*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
-*   [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
-*   [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
-*   [itaditya/storycruise](https://github.com/itaditya/storycruise) - The incredible speed of Snowpack now for Storybook
-*   [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-*   [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
-*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-*   [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) -
-*   [klaviyo/node-klaviyo](https://github.com/klaviyo/node-klaviyo) -
-*   [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
-*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-*   [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
-*   [Nick-Mazuk/eslint-config](https://github.com/Nick-Mazuk/eslint-config) - A highly opinionated ESLint config.
-*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
-*   [nkbt/react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height
-*   [garethgeorge/harmonysync](https://github.com/garethgeorge/harmonysync) - a chrome extension for synchronizing video playback
-*   [kellym/smartquotes.js](https://github.com/kellym/smartquotes.js) - Smart quotes are smart typography, and now it’s just a ’script away.
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-*   [aaronstanekhosting/gen-show3](https://github.com/aaronstanekhosting/gen-show3) -
-*   [aaronstanek/gen-show3](https://github.com/aaronstanek/gen-show3) -
-*   [Nick-Mazuk/balanced-text](https://github.com/Nick-Mazuk/balanced-text) - A performance-optimized script for balancing text in browser.
-*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-*   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
-*   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
-*   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
-*   [Nick-Mazuk/javascript-helper](https://github.com/Nick-Mazuk/javascript-helper) - Tool that will help make javascript code easier in many ways
-*   [Nick-Mazuk/breakout](https://github.com/Nick-Mazuk/breakout) - My version of the game Breakout
-*   [Nick-Mazuk/pong](https://github.com/Nick-Mazuk/pong) - My version of the game Pong
-*   [Nick-Mazuk/brick](https://github.com/Nick-Mazuk/brick) - A create-your-own-adventure game for my English Existentialist project
-*   [Nick-Mazuk/day-of-the-week](https://github.com/Nick-Mazuk/day-of-the-week) - A quiz to help mentally calculate days of the week for any day this century and vice versa
-*   [Nick-Mazuk/geopattern](https://github.com/Nick-Mazuk/geopattern) - Generate beautiful SVG patterns
-*   [Nick-Mazuk/collatz](https://github.com/Nick-Mazuk/collatz) - A calculator that simply returns the path of evens and odds for the collatz conjecture.
-*   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
-*   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
-*   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
-*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
-*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-*   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
-*   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-*   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
-*   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
-*   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
-*   [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
-*   [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
-*   [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
-*   [thelastpenguin/HarmonyMediaUI](https://github.com/thelastpenguin/HarmonyMediaUI) - the client portion of the harmony media server
-*   [stared/quantum-game](https://github.com/stared/quantum-game) - Quantum Game (old version) - a puzzle game with real quantum mechanics in a browser
-*   [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
 
 ## HTML
 
@@ -1008,8 +1016,6 @@
 *   [ghostwriternr/lowpolify](https://github.com/ghostwriternr/lowpolify) - Create low-poly art from any image :star2::star2:
 *   [anshi0910/attempt](https://github.com/anshi0910/attempt) -
 *   [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
-*   [facelessuser/HexViewer](https://github.com/facelessuser/HexViewer) - Hex viewer and editor for SublimeText
-*   [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 
 ## OCaml
 
@@ -1018,12 +1024,6 @@
 *   [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
 *   [tarides/opam-monorepo](https://github.com/tarides/opam-monorepo) - Assemble dune workspaces to build your project and its dependencies as a whole
 *   [mransan/ocaml-protoc](https://github.com/mransan/ocaml-protoc) - A Protobuf Compiler for OCaml
-
-## Clojure
-
-*   [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
-*   [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
-*   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## ReScript
 
