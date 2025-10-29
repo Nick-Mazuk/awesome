@@ -633,6 +633,7 @@
 *   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 *   [gleich/nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
 *   [fogleman/pack3d](https://github.com/fogleman/pack3d) - Tightly pack 3D models.
+*   [thelastpenguin/HarmonyMedia](https://github.com/thelastpenguin/HarmonyMedia) - Watch movies and shows socially with your friends!
 
 ## Rust
 
@@ -685,7 +686,6 @@
 *   [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
 *   [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 *   [dtolnay/serde-repr](https://github.com/dtolnay/serde-repr) - Serialize and deserialize C-like enum as underlying repr
-*   [ssc-project/ssc](https://github.com/ssc-project/ssc) - A collection of Svelte tools written in Rust.
 *   [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 *   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 *   [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
