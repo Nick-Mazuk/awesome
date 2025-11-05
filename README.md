@@ -4,10 +4,12 @@
 
 ## Table of Contents
 
+*   [C++](#c)
+*   [Erlang](#erlang)
+*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Rocq Prover](#rocq-prover)
-*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Clojure](#clojure)
 *   [Go](#go)
@@ -32,7 +34,6 @@
 *   [Odin](#odin)
 *   [Lua](#lua)
 *   [Haskell](#haskell)
-*   [Elixir](#elixir)
 *   [Kotlin](#kotlin)
 *   [Makefile](#makefile)
 *   [AutoHotkey](#autohotkey)
@@ -67,7 +68,67 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
-*   [LilyPond](#lilypond)
+
+## C++
+
+*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
+*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
+*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
+*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
+*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
+*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
+*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
+*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
+*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
+*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+## Erlang
+
+*   [ninenines/gun](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.
+*   [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
+
+## Elixir
+
+*   [phoenixframework/phoenix\_live\_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
+*   [Azolo/websockex](https://github.com/Azolo/websockex) - An Elixir Websocket Client
+*   [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
+*   [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
+*   [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends
+*   [jaeyson/ex\_typesense](https://github.com/jaeyson/ex_typesense) - Typesense client for Elixir with support for importing your Ecto schemas.
+*   [goodhamgupta/authzed\_ex](https://github.com/goodhamgupta/authzed_ex) - Unofficial SpiceDB client library for Elixir
+*   [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe
+*   [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - 👁 A merge bot for GitHub Pull Requests
+*   [ArneVogel/listudy](https://github.com/ArneVogel/listudy) - Listudy - chess training server
+*   [supabase/workflows](https://github.com/supabase/workflows) -
+*   [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## TypeScript
 
@@ -537,45 +598,6 @@
 
 *   [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make super safe applications! ✈️ 🚀 ⚕️ 🏦
 
-## C++
-
-*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
-*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
-*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
-*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
-*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
-*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
-*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
-*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
-*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
-*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
-*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
 ## JavaScript
 
 *   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
@@ -755,8 +777,6 @@
 *   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
 *   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
 *   [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
-*   [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
-*   [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 
 ## Clojure
 
@@ -981,7 +1001,6 @@
 *   [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 *   [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
 *   [ddjfreedom/recent-downloads-alfred-v2](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Recent Downloads Workflow for Alfred v2
-*   [DJMcMayhem/Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak) - A minimalist esolang
 
 ## Python
 
@@ -1263,20 +1282,6 @@
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 *   [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 
-## Elixir
-
-*   [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
-*   [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
-*   [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends
-*   [jaeyson/ex\_typesense](https://github.com/jaeyson/ex_typesense) - Typesense client for Elixir with support for importing your Ecto schemas.
-*   [goodhamgupta/authzed\_ex](https://github.com/goodhamgupta/authzed_ex) - Unofficial SpiceDB client library for Elixir
-*   [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe
-*   [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - 👁 A merge bot for GitHub Pull Requests
-*   [ArneVogel/listudy](https://github.com/ArneVogel/listudy) - Listudy - chess training server
-*   [supabase/workflows](https://github.com/supabase/workflows) -
-*   [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-
 ## Kotlin
 
 *   [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
@@ -1310,7 +1315,6 @@
 *   [Nick-Mazuk/traveling-salesman](https://github.com/Nick-Mazuk/traveling-salesman) - A real-time traveling salesman visualizer. Compare 6 algorithms in either a bustling suburb or a lifeless, theoretical void. The choice is yours, and see the results in real-time!
 *   [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 *   [codrops/CSSGlitchEffect](https://github.com/codrops/CSSGlitchEffect) - An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
-*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 
 ## Java
 
@@ -1456,7 +1460,3 @@
 
 *   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 *   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-
-## LilyPond
-
-*   [openmusictheory/openmusictheory.github.io](https://github.com/openmusictheory/openmusictheory.github.io) - A growing, online "textbook" for music theory and aural skills
