@@ -406,7 +406,7 @@
 *   [Sheraff/drizzle-orm-crsqlite-wasm](https://github.com/Sheraff/drizzle-orm-crsqlite-wasm) -
 *   [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 *   [OvidijusParsiunas/active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
-*   [evoluhq/evolu](https://github.com/evoluhq/evolu) - Privacy-focused local‑first platform that scales.
+*   [evoluhq/evolu](https://github.com/evoluhq/evolu) - TypeScript library and local-first platform
 *   [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 *   [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
@@ -653,7 +653,7 @@
 *   [ncase/blog](https://github.com/ncase/blog) - This is my bloooggggggggg
 *   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 *   [boa-dev/criterion-compare-action](https://github.com/boa-dev/criterion-compare-action) - ⚡️📊 Compare the performance of Rust project branches
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 *   [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
 *   [Satak/webrequest-action](https://github.com/Satak/webrequest-action) - GitHub action for web requests
 *   [eregon/publish-release](https://github.com/eregon/publish-release) - A GitHub Action to publish a draft release
