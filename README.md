@@ -338,7 +338,7 @@
 ## Elixir
 
 *   [phoenixframework/phoenix\_live\_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
-*   [Azolo/websockex](https://github.com/Azolo/websockex) - An Elixir Websocket Client
+*   [dominicletz/websockex](https://github.com/dominicletz/websockex) - An Elixir Websocket Client
 *   [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 *   [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 *   [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends
