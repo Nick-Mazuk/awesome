@@ -608,7 +608,7 @@
 *   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 *   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 *   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
-*   [michael/svedit](https://github.com/michael/svedit) -
+*   [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
 *   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
 *   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 *   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
