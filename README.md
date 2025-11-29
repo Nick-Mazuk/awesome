@@ -362,6 +362,7 @@
 *   [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 *   [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 *   [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 *   [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 *   [typesense/typesense-js](https://github.com/typesense/typesense-js) - JavaScript / TypeScript client for Typesense
 *   [ChromeGG/cel-js](https://github.com/ChromeGG/cel-js) - cel-js is a  Common Expression Language (CEL) evaluator for JavaScript
@@ -606,7 +607,6 @@
 *   [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 *   [crubier/Hexastore](https://github.com/crubier/Hexastore) - A fast, pure javascript triple store implementation, also useful as a graph database.
 *   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 *   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
 *   [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
 *   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
@@ -814,7 +814,7 @@
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 *   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
 *   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
-*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+*   [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of FusionAuth 🎉
 *   [tcard/sgo](https://github.com/tcard/sgo) - A dialect of Go with optional types and without nil references.
 *   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 *   [katallaxie/fiber-htmx](https://github.com/katallaxie/fiber-htmx) - 🔨Create HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
