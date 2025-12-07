@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [C++](#c)
 *   [Rust](#rust)
 *   [Erlang](#erlang)
 *   [Elixir](#elixir)
 *   [TypeScript](#typescript)
 *   [Rocq Prover](#rocq-prover)
-*   [JavaScript](#javascript)
 *   [Clojure](#clojure)
 *   [Go](#go)
 *   [Starlark](#starlark)
@@ -67,6 +67,183 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## JavaScript
+
+*   [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
+*   [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
+*   [crubier/Hexastore](https://github.com/crubier/Hexastore) - A fast, pure javascript triple store implementation, also useful as a graph database.
+*   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+*   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
+*   [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
+*   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
+*   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
+*   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+*   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd?
+*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+*   [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
+*   [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
+*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+*   [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+*   [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
+*   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
+*   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
+*   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+*   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
+*   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
+*   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
+*   [rolldown-old/old-rolldown](https://github.com/rolldown-old/old-rolldown) - Modern bundler built on Rollup with couple more features, such as multiple entry points, presets, better configuration experience and more.
+*   [stanleyfok/content-based-recommender](https://github.com/stanleyfok/content-based-recommender) - A simple content-based recommender implemented in javascript
+*   [focus-trap/tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order
+*   [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
+*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+*   [adRise/update-pr-branch](https://github.com/adRise/update-pr-branch) - Github Action to automatically update PR branches that match the criteria. Designed to work with the Github `auto-merge` feature.
+*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+*   [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
+*   [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
+*   [bigskysoftware/\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
+*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
+*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+*   [ol-th/pdf-img-convert.js](https://github.com/ol-th/pdf-img-convert.js) - Simple node package to convert a PDF into images.
+*   [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
+*   [pqina/svelte-filepond](https://github.com/pqina/svelte-filepond) - 🔌 A handy FilePond adapter component for Svelte
+*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
+*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+*   [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
+*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
+*   [filamentgroup/glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+*   [ncase/blog](https://github.com/ncase/blog) - This is my bloooggggggggg
+*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+*   [boa-dev/criterion-compare-action](https://github.com/boa-dev/criterion-compare-action) - ⚡️📊 Compare the performance of Rust project branches
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
+*   [Satak/webrequest-action](https://github.com/Satak/webrequest-action) - GitHub action for web requests
+*   [eregon/publish-release](https://github.com/eregon/publish-release) - A GitHub Action to publish a draft release
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+*   [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
+*   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
+*   [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request
+*   [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
+*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+*   [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
+*   [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+*   [cazala/mnist](https://github.com/cazala/mnist) - mnist digits in javascript
+*   [finos/cla-bot](https://github.com/finos/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
+*   [ColinEberhardt/cla-bot](https://github.com/ColinEberhardt/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
+*   [aaronstanek/quick\_links\_chrome](https://github.com/aaronstanek/quick_links_chrome) - Fast in-browser go-links implementation
+*   [eslint/markdown](https://github.com/eslint/markdown) - Lint JavaScript code blocks in Markdown documents
+*   [mafintosh/protocol-buffers-schema](https://github.com/mafintosh/protocol-buffers-schema) - No nonsense protocol buffers schema parser written in Javascript
+*   [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
+*   [mathiasbynens/luamin](https://github.com/mathiasbynens/luamin) - A Lua minifier written in JavaScript
+*   [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
+*   [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+*   [NodeGuy/JavaScript-fuzz](https://github.com/NodeGuy/JavaScript-fuzz) - generates random values of standard, built-in JavaScript types for fuzz testing
+*   [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
+*   [sawyerh/eslint-plugin-todo-plz](https://github.com/sawyerh/eslint-plugin-todo-plz) - Enforce consistent and maintainable TODO comments
+*   [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+*   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+*   [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
+*   [sabinbajracharya/Svelte-with-Rescript](https://github.com/sabinbajracharya/Svelte-with-Rescript) - A project to showcase the use of ReScript to write Svelte Apps
+*   [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
+*   [hackclub/muse](https://github.com/hackclub/muse) - 🎸 a simple language for jamming!
+*   [ncase/nutshell-beta](https://github.com/ncase/nutshell-beta) - Nutshell Beta!
+*   [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
+*   [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
+*   [argyleink/roving-ux](https://github.com/argyleink/roving-ux) - stateful roving index for web ui
+*   [bvaughn/js-search](https://github.com/bvaughn/js-search) - JS Search is an efficient, client-side search library for JavaScript and JSON objects
+*   [bvaughn/js-worker-search](https://github.com/bvaughn/js-worker-search) - JavaScript client-side search API with web-worker support
+*   [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+*   [verbose/verb-generate-readme](https://github.com/verbose/verb-generate-readme) - Generate your project's readme with verb. Requires verb v0.9.0 or higher.
+*   [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink is an AI palette generator trained with the Tailwindcss colors.
+*   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+*   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
+*   [ls-age/svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
+*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+*   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
+*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
+*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+*   [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
+*   [nenadpnc/cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, typescript
+*   [Nick-Mazuk/semantic-release-config](https://github.com/Nick-Mazuk/semantic-release-config) - semantic-release config
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+*   [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
+*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+*   [jaredpalmer/cypress-image-snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress
+*   [bahmutov/cypress-svelte-unit-test](https://github.com/bahmutov/cypress-svelte-unit-test) - Unit testing Svelte components in Cypress E2E test runner
+*   [meinaart/cypress-plugin-snapshots](https://github.com/meinaart/cypress-plugin-snapshots) - Plugin for snapshot tests in Cypress.io
+*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+*   [vinaypillai/ac-colors](https://github.com/vinaypillai/ac-colors) - ac-colors is a reactive JavaScript color library that can freely convert between RGB, HSL, HEX, XYZ, LAB, LCHab, LUV, and LCHuv, as well as handle random color generation and contrast ratio calculation.
+*   [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - ⚠️ MOVED: https://github.com/svelte-add/svelte-add/ ⚠️ Add mdsvex to your Svelte project
+*   [romkor/svelte-portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component
+*   [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
+*   [albinotonnina/albinotonnina.com](https://github.com/albinotonnina/albinotonnina.com) - Personal portfolio website with interactive animations and visual storytelling. Built with React, featuring modular scene management, comprehensive testing, and smooth cross-device performance.
+*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+*   [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
+*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+*   [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
+*   [Rich-Harris/svg-parser](https://github.com/Rich-Harris/svg-parser) -
+*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
+*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
+*   [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
+*   [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
+*   [itaditya/storycruise](https://github.com/itaditya/storycruise) - The incredible speed of Snowpack now for Storybook
+*   [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+*   [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
+*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+*   [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) -
+*   [klaviyo/node-klaviyo](https://github.com/klaviyo/node-klaviyo) -
+*   [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
+*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+*   [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+*   [Nick-Mazuk/eslint-config](https://github.com/Nick-Mazuk/eslint-config) - A highly opinionated ESLint config.
+*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+*   [nkbt/react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height
+*   [garethgeorge/harmonysync](https://github.com/garethgeorge/harmonysync) - a chrome extension for synchronizing video playback
+*   [kellym/smartquotes.js](https://github.com/kellym/smartquotes.js) - Smart quotes are smart typography, and now it’s just a ’script away.
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+*   [aaronstanekhosting/gen-show3](https://github.com/aaronstanekhosting/gen-show3) -
+*   [aaronstanek/gen-show3](https://github.com/aaronstanek/gen-show3) -
+*   [Nick-Mazuk/balanced-text](https://github.com/Nick-Mazuk/balanced-text) - A performance-optimized script for balancing text in browser.
+*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+*   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
+*   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
+*   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
+*   [Nick-Mazuk/javascript-helper](https://github.com/Nick-Mazuk/javascript-helper) - Tool that will help make javascript code easier in many ways
+*   [Nick-Mazuk/breakout](https://github.com/Nick-Mazuk/breakout) - My version of the game Breakout
+*   [Nick-Mazuk/pong](https://github.com/Nick-Mazuk/pong) - My version of the game Pong
+*   [Nick-Mazuk/brick](https://github.com/Nick-Mazuk/brick) - A create-your-own-adventure game for my English Existentialist project
+*   [Nick-Mazuk/day-of-the-week](https://github.com/Nick-Mazuk/day-of-the-week) - A quiz to help mentally calculate days of the week for any day this century and vice versa
+*   [Nick-Mazuk/geopattern](https://github.com/Nick-Mazuk/geopattern) - Generate beautiful SVG patterns
+*   [Nick-Mazuk/collatz](https://github.com/Nick-Mazuk/collatz) - A calculator that simply returns the path of evens and odds for the collatz conjecture.
+*   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
+*   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
+*   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
+*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
+*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+*   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
+*   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+*   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
+*   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
 
 ## C++
 
@@ -601,183 +778,6 @@
 ## Rocq Prover
 
 *   [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make super safe applications! ✈️ 🚀 ⚕️ 🏦
-
-## JavaScript
-
-*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
-*   [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
-*   [crubier/Hexastore](https://github.com/crubier/Hexastore) - A fast, pure javascript triple store implementation, also useful as a graph database.
-*   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-*   [jurisauthor/juris-kit](https://github.com/jurisauthor/juris-kit) - Fast and Simple Juris Fullstack solution
-*   [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
-*   [slevithan/oniguruma-to-es](https://github.com/slevithan/oniguruma-to-es) - 👹 Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp
-*   [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
-*   [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-*   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-*   [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd?
-*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
-*   [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
-*   [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
-*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-*   [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-*   [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
-*   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-*   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
-*   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
-*   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
-*   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
-*   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
-*   [rolldown-old/old-rolldown](https://github.com/rolldown-old/old-rolldown) - Modern bundler built on Rollup with couple more features, such as multiple entry points, presets, better configuration experience and more.
-*   [stanleyfok/content-based-recommender](https://github.com/stanleyfok/content-based-recommender) - A simple content-based recommender implemented in javascript
-*   [focus-trap/tabbable](https://github.com/focus-trap/tabbable) - Find descendants of a DOM node that are in the tab order
-*   [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
-*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-*   [adRise/update-pr-branch](https://github.com/adRise/update-pr-branch) - Github Action to automatically update PR branches that match the criteria. Designed to work with the Github `auto-merge` feature.
-*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
-*   [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-*   [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
-*   [bigskysoftware/\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
-*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
-*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [ol-th/pdf-img-convert.js](https://github.com/ol-th/pdf-img-convert.js) - Simple node package to convert a PDF into images.
-*   [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
-*   [pqina/svelte-filepond](https://github.com/pqina/svelte-filepond) - 🔌 A handy FilePond adapter component for Svelte
-*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
-*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-*   [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
-*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
-*   [filamentgroup/glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
-*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
-*   [ncase/blog](https://github.com/ncase/blog) - This is my bloooggggggggg
-*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-*   [boa-dev/criterion-compare-action](https://github.com/boa-dev/criterion-compare-action) - ⚡️📊 Compare the performance of Rust project branches
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-*   [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
-*   [Satak/webrequest-action](https://github.com/Satak/webrequest-action) - GitHub action for web requests
-*   [eregon/publish-release](https://github.com/eregon/publish-release) - A GitHub Action to publish a draft release
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-*   [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
-*   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-*   [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request
-*   [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
-*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-*   [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
-*   [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-*   [cazala/mnist](https://github.com/cazala/mnist) - mnist digits in javascript
-*   [finos/cla-bot](https://github.com/finos/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
-*   [ColinEberhardt/cla-bot](https://github.com/ColinEberhardt/cla-bot) - cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).
-*   [aaronstanek/quick\_links\_chrome](https://github.com/aaronstanek/quick_links_chrome) - Fast in-browser go-links implementation
-*   [eslint/markdown](https://github.com/eslint/markdown) - Lint JavaScript code blocks in Markdown documents
-*   [mafintosh/protocol-buffers-schema](https://github.com/mafintosh/protocol-buffers-schema) - No nonsense protocol buffers schema parser written in Javascript
-*   [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
-*   [mathiasbynens/luamin](https://github.com/mathiasbynens/luamin) - A Lua minifier written in JavaScript
-*   [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
-*   [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-*   [NodeGuy/JavaScript-fuzz](https://github.com/NodeGuy/JavaScript-fuzz) - generates random values of standard, built-in JavaScript types for fuzz testing
-*   [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
-*   [sawyerh/eslint-plugin-todo-plz](https://github.com/sawyerh/eslint-plugin-todo-plz) - Enforce consistent and maintainable TODO comments
-*   [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-*   [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
-*   [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
-*   [sabinbajracharya/Svelte-with-Rescript](https://github.com/sabinbajracharya/Svelte-with-Rescript) - A project to showcase the use of ReScript to write Svelte Apps
-*   [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
-*   [hackclub/muse](https://github.com/hackclub/muse) - 🎸 a simple language for jamming!
-*   [ncase/nutshell-beta](https://github.com/ncase/nutshell-beta) - Nutshell Beta!
-*   [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
-*   [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
-*   [argyleink/roving-ux](https://github.com/argyleink/roving-ux) - stateful roving index for web ui
-*   [bvaughn/js-search](https://github.com/bvaughn/js-search) - JS Search is an efficient, client-side search library for JavaScript and JSON objects
-*   [bvaughn/js-worker-search](https://github.com/bvaughn/js-worker-search) - JavaScript client-side search API with web-worker support
-*   [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-*   [verbose/verb-generate-readme](https://github.com/verbose/verb-generate-readme) - Generate your project's readme with verb. Requires verb v0.9.0 or higher.
-*   [dmarman/dmarman.github.io](https://github.com/dmarman/dmarman.github.io) - Tailwind Ink is an AI palette generator trained with the Tailwindcss colors.
-*   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
-*   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
-*   [ls-age/svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
-*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
-*   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
-*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
-*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-*   [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
-*   [nenadpnc/cl-editor](https://github.com/nenadpnc/cl-editor) - Lightweight text editor built with svelte, typescript
-*   [Nick-Mazuk/semantic-release-config](https://github.com/Nick-Mazuk/semantic-release-config) - semantic-release config
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-*   [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
-*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-*   [jaredpalmer/cypress-image-snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress
-*   [bahmutov/cypress-svelte-unit-test](https://github.com/bahmutov/cypress-svelte-unit-test) - Unit testing Svelte components in Cypress E2E test runner
-*   [meinaart/cypress-plugin-snapshots](https://github.com/meinaart/cypress-plugin-snapshots) - Plugin for snapshot tests in Cypress.io
-*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-*   [vinaypillai/ac-colors](https://github.com/vinaypillai/ac-colors) - ac-colors is a reactive JavaScript color library that can freely convert between RGB, HSL, HEX, XYZ, LAB, LCHab, LUV, and LCHuv, as well as handle random color generation and contrast ratio calculation.
-*   [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - ⚠️ MOVED: https://github.com/svelte-add/svelte-add/ ⚠️ Add mdsvex to your Svelte project
-*   [romkor/svelte-portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component
-*   [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
-*   [albinotonnina/albinotonnina.com](https://github.com/albinotonnina/albinotonnina.com) - Personal portfolio website with interactive animations and visual storytelling. Built with React, featuring modular scene management, comprehensive testing, and smooth cross-device performance.
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-*   [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
-*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-*   [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
-*   [Rich-Harris/svg-parser](https://github.com/Rich-Harris/svg-parser) -
-*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-*   [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
-*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
-*   [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
-*   [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
-*   [itaditya/storycruise](https://github.com/itaditya/storycruise) - The incredible speed of Snowpack now for Storybook
-*   [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-*   [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
-*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-*   [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) -
-*   [klaviyo/node-klaviyo](https://github.com/klaviyo/node-klaviyo) -
-*   [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action) - Protect your secrets using Gitleaks-Action
-*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-*   [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
-*   [Nick-Mazuk/eslint-config](https://github.com/Nick-Mazuk/eslint-config) - A highly opinionated ESLint config.
-*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
-*   [nkbt/react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height
-*   [garethgeorge/harmonysync](https://github.com/garethgeorge/harmonysync) - a chrome extension for synchronizing video playback
-*   [kellym/smartquotes.js](https://github.com/kellym/smartquotes.js) - Smart quotes are smart typography, and now it’s just a ’script away.
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-*   [aaronstanekhosting/gen-show3](https://github.com/aaronstanekhosting/gen-show3) -
-*   [aaronstanek/gen-show3](https://github.com/aaronstanek/gen-show3) -
-*   [Nick-Mazuk/balanced-text](https://github.com/Nick-Mazuk/balanced-text) - A performance-optimized script for balancing text in browser.
-*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-*   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
-*   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
-*   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
-*   [Nick-Mazuk/javascript-helper](https://github.com/Nick-Mazuk/javascript-helper) - Tool that will help make javascript code easier in many ways
-*   [Nick-Mazuk/breakout](https://github.com/Nick-Mazuk/breakout) - My version of the game Breakout
-*   [Nick-Mazuk/pong](https://github.com/Nick-Mazuk/pong) - My version of the game Pong
-*   [Nick-Mazuk/brick](https://github.com/Nick-Mazuk/brick) - A create-your-own-adventure game for my English Existentialist project
-*   [Nick-Mazuk/day-of-the-week](https://github.com/Nick-Mazuk/day-of-the-week) - A quiz to help mentally calculate days of the week for any day this century and vice versa
-*   [Nick-Mazuk/geopattern](https://github.com/Nick-Mazuk/geopattern) - Generate beautiful SVG patterns
-*   [Nick-Mazuk/collatz](https://github.com/Nick-Mazuk/collatz) - A calculator that simply returns the path of evens and odds for the collatz conjecture.
-*   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
-*   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
-*   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
-*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
-*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-*   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
-*   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-*   [ncase/joy](https://github.com/ncase/joy) - make happy little programs
-*   [stencila/desktop](https://github.com/stencila/desktop) - 💻 Stencila on your desktop
-*   [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) -
 
 ## Clojure
 
