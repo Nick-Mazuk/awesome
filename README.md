@@ -366,7 +366,7 @@
 *   [axodotdev/axohtml](https://github.com/axodotdev/axohtml) - 👩‍💻 type-checked JSX for Rust
 *   [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 *   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 *   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 *   [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare's Rust service foundations library.
@@ -765,7 +765,7 @@
 *   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 *   [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
 *   [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
-*   [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - TypeScript client for Meilisearch
+*   [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
 *   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 *   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
