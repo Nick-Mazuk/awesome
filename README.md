@@ -891,7 +891,7 @@
 *   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
 *   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
 *   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
-*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
+*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
 *   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
 *   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
 *   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
