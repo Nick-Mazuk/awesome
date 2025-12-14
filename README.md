@@ -663,7 +663,6 @@
 *   [lumol-org/soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust
 *   [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
-*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 *   [ChrisRega/image-compare](https://github.com/ChrisRega/image-compare) - image comparison in rust
 *   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
@@ -844,6 +843,7 @@
 *   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 *   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 *   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
 *   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
 *   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
