@@ -301,6 +301,7 @@
 *   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 *   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 *   [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 *   [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - 🍃 Windi CSS for Vite ⚡️
@@ -1301,7 +1302,6 @@
 
 *   [pintariching/railwind](https://github.com/pintariching/railwind) - Tailwind compiler rewritten in rust
 *   [heroku/12factor](https://github.com/heroku/12factor) -
-*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 *   [Nick-Mazuk/Lightening-CSS](https://github.com/Nick-Mazuk/Lightening-CSS) - A lightweight, flexible, and responsive CSS framework. Uses the CUBE CSS methodology.
 *   [Nick-Mazuk/quantum-chess](https://github.com/Nick-Mazuk/quantum-chess) - It's chess, but quantum
 *   [Nick-Mazuk/Navigation-Bar](https://github.com/Nick-Mazuk/Navigation-Bar) -
