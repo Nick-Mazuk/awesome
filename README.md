@@ -70,6 +70,8 @@
 
 ## Rust
 
+*   [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
 *   [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
@@ -798,7 +800,6 @@
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 *   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
 *   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 
 ## C++
 
@@ -1051,7 +1052,6 @@
 *   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
 *   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
 *   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
-*   [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 
 ## Swift
 
