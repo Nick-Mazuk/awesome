@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Nix](#nix)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [C++](#c)
 *   [Erlang](#erlang)
 *   [Elixir](#elixir)
 *   [Rocq Prover](#rocq-prover)
@@ -67,6 +67,47 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Vue](#vue)
+
+## C++
+
+*   [fairmath/openfhe-rs](https://github.com/fairmath/openfhe-rs) - OpenFHE-rs - a Rust interface for the OpenFHE library; documentation https://openfhe-rust-wrapper.readthedocs.io/
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
+*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
+*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
+*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
+*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
+*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
+*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
+*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
+*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
+*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
+*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
+*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## Rust
 
@@ -377,7 +418,7 @@
 *   [nicojs/typed-html](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [dichovsky/pdf-to-png-converter](https://github.com/dichovsky/pdf-to-png-converter) - Library Convert PDF to PNG
-*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 *   [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 *   [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 *   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -624,7 +665,6 @@
 *   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
 *   [aaronstanek/UniversalCalendar](https://github.com/aaronstanek/UniversalCalendar) -
 *   [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
-*   [ghostwriternr/lowpolify](https://github.com/ghostwriternr/lowpolify) - Create low-poly art from any image :star2::star2:
 
 ## JavaScript
 
@@ -800,46 +840,6 @@
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 *   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
 *   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-
-## C++
-
-*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-*   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-*   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
-*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
-*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-*   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
-*   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-*   [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-*   [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-*   [google/riegeli](https://github.com/google/riegeli) - Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
-*   [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-*   [ApsarasX/llvm-bindings](https://github.com/ApsarasX/llvm-bindings) - LLVM bindings for Node.js/JavaScript/TypeScript
-*   [dgp1130/sanity-lang](https://github.com/dgp1130/sanity-lang) - A general purpose programming language for the purpose of evaluating some random ideas I had about ways to improve existing languages.
-*   [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-*   [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-*   [zaucy/bzlws](https://github.com/zaucy/bzlws) - Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
-*   [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
-*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-*   [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-*   [wmww/Pinecone](https://github.com/wmww/Pinecone) - An unmaintained programming language
-*   [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-*   [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
-*   [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
-*   [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## Erlang
 
