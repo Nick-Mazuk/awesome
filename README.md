@@ -300,7 +300,7 @@
 *   [nathankleyn/gitignore.rs](https://github.com/nathankleyn/gitignore.rs) - Implementation of .gitignore file parsing and glob testing in Rust.
 *   [cloudflare/dkim](https://github.com/cloudflare/dkim) - DKIM (RFC6376) implementation
 *   [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
-*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - correct, fast, usable: choose three
+*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - { Correct, Fast, Usable } -- Choose three
 *   [ebkalderon/example-fault-tolerant-parser](https://github.com/ebkalderon/example-fault-tolerant-parser) - Fault-tolerant nom 5 parser based on "Syntax error recovery in parsing expression grammars" (2018)
 *   [andylokandy/nom-rule](https://github.com/andylokandy/nom-rule) - A procedural macro for defining nom combinators in simple DSL
 *   [Nick-Mazuk/prettify](https://github.com/Nick-Mazuk/prettify) - An extensible, language-agnostic, Rust-based code formatter based on Prettier.
