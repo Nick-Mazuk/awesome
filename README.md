@@ -405,7 +405,7 @@
 *   [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 *   [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 *   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
-*   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+*   [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 *   [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
