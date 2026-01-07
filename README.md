@@ -80,7 +80,7 @@
 *   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 *   [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 *   [HackerPoet/NeighborlyPolyhedra](https://github.com/HackerPoet/NeighborlyPolyhedra) - Search for the K12 neighborly polyhedron.
-*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@Aleksanaa]
+*   [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries \[maintainer=@inclyc,@takeokunn,@Aleksanaa]
 *   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 *   [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 *   [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -243,6 +243,7 @@
 *   [lumol-org/soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust
 *   [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 *   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
+*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 *   [ChrisRega/image-compare](https://github.com/ChrisRega/image-compare) - image comparison in rust
 *   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
@@ -920,7 +921,6 @@
 *   [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 *   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 *   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-*   [Calsign/gazelle\_rust](https://github.com/Calsign/gazelle_rust) - Gazelle language plugin for Rust.
 *   [bazelbuild/rules\_webtesting](https://github.com/bazelbuild/rules_webtesting) - Bazel rules to allow testing against a browser with WebDriver.
 *   [livebud/tailwind](https://github.com/livebud/tailwind) - Tailwind.css for the Go ecosystem
 *   [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
