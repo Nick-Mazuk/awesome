@@ -365,7 +365,7 @@
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 *   [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 *   [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
-*   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
+*   [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 *   [dcrebbin/cursor-learner](https://github.com/dcrebbin/cursor-learner) - Transform your Cursor chat history into targeted prompts for actionable AI feedback.
 *   [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small.
 *   [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
@@ -611,7 +611,7 @@
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 *   [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
 *   [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) -
-*   [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
+*   [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 *   [Nick-Mazuk/tsconfig](https://github.com/Nick-Mazuk/tsconfig) - A strict tsconfig for TypeScript projects.
 *   [Nick-Mazuk/gatsby](https://github.com/Nick-Mazuk/gatsby) - Build blazing fast, modern apps and websites with React
 *   [Nick-Mazuk/Nick-Mazuk](https://github.com/Nick-Mazuk/Nick-Mazuk) -
