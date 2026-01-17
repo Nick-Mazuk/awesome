@@ -33,6 +33,7 @@
 *   [Odin](#odin)
 *   [Lua](#lua)
 *   [Haskell](#haskell)
+*   [Fluent](#fluent)
 *   [Kotlin](#kotlin)
 *   [Makefile](#makefile)
 *   [AutoHotkey](#autohotkey)
@@ -681,7 +682,6 @@
 *   [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 *   [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter \[maintainer=@cstrahan]
 *   [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 *   [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 *   [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 *   [hybridables/always-done](https://github.com/hybridables/always-done) - :trophy: Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
@@ -1275,6 +1275,10 @@
 *   [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 *   [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
+
+## Fluent
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Kotlin
 
