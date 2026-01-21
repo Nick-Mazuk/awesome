@@ -60,7 +60,6 @@
 *   [Marko](#marko)
 *   [Dart](#dart)
 *   [Nim](#nim)
-*   [Roff](#roff)
 *   [Haml](#haml)
 *   [CoffeeScript](#coffeescript)
 *   [JSON](#json)
@@ -1014,6 +1013,7 @@
 *   [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
 *   [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases.
 *   [ChrisCummins/bazel\_llvm](https://github.com/ChrisCummins/bazel_llvm) - LLVM libraries and binaries for bazel
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 *   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 *   [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 *   [actions-js/push](https://github.com/actions-js/push) - ⬆️ Push changes made by actions right back into the current repository.
@@ -1125,7 +1125,7 @@
 
 *   [floscodes/zerve](https://github.com/floscodes/zerve) - A simple framework for writing web services in zig.
 *   [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
-*   [david-vanderson/dvui](https://github.com/david-vanderson/dvui) -
+*   [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Immediate Zig GUI for Apps and Games
 *   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 *   [thechampagne/webview-zig](https://github.com/thechampagne/webview-zig) - ⚡ Zig binding & wrapper for a tiny cross-platform webview library to build modern cross-platform GUIs.
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -1422,10 +1422,6 @@
 ## Nim
 
 *   [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
-
-## Roff
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Haml
 
