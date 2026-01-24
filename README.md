@@ -549,7 +549,7 @@
 *   [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
 *   [noahsalvi/svelte-use-form](https://github.com/noahsalvi/svelte-use-form) - The most compact reactive form controller (including Validation) that you'll ever see.
 *   [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-*   [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Deprecated repo. Moved all work to https://github.com/supabase/supabase-js
+*   [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - The postgrest-js repo now has a new home: https://github.com/supabase/supabase-js/tree/master/packages/core/postgrest-js
 *   [technote-space/auto-cancel-redundant-workflow](https://github.com/technote-space/auto-cancel-redundant-workflow) - GitHub Actions to automatically cancel redundant workflow.
 *   [FilledStacks/firebase-backend](https://github.com/FilledStacks/firebase-backend) - A package that helps with the management and expansion of a maintainable firebase backend
 *   [wellyshen/react-cool-inview](https://github.com/wellyshen/react-cool-inview) - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
