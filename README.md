@@ -334,7 +334,7 @@
 
 ## TypeScript
 
-*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
+*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
 *   [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
 *   [Konixy/better-svelte-email](https://github.com/Konixy/better-svelte-email) - 📧 Render emails in Svelte effortlessly with first-class tailwind support
 *   [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
