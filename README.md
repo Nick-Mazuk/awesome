@@ -260,7 +260,7 @@
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 *   [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 *   [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-*   [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.
+*   [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance Skia canvas implementation. Zero system dependencies.
 *   [lostatc/acid-store](https://github.com/lostatc/acid-store) - \[UNMAINTAINED] A transactional and deduplicating virtual file system
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 *   [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
