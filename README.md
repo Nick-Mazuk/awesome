@@ -316,7 +316,6 @@
 *   [devongovett/dprint-node](https://github.com/devongovett/dprint-node) - A node API for the dprint TypeScript and JavaScript code formatter
 *   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 *   [likebike/fasteval](https://github.com/likebike/fasteval) - Fast and safe evaluation of algebraic expressions
-*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 *   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 *   [Qovery/RedisLess](https://github.com/Qovery/RedisLess) - RedisLess is a fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API.
 *   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -1151,6 +1150,7 @@
 *   [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf 3 implementation for zig.
 *   [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 
 ## C
 
