@@ -16,6 +16,7 @@
 *   [Clojure](#clojure)
 *   [Go](#go)
 *   [Starlark](#starlark)
+*   [C](#c-1)
 *   [Assembly](#assembly)
 *   [Shell](#shell)
 *   [Nix](#nix)
@@ -28,7 +29,6 @@
 *   [SystemVerilog](#systemverilog)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Zig](#zig)
-*   [C](#c-1)
 *   [Svelte](#svelte)
 *   [Odin](#odin)
 *   [Lua](#lua)
@@ -226,7 +226,7 @@
 *   [plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore) - This is an Obsidian plugin to allow easily sideloading other plugins.
 *   [Benjamin-Dobell/luabundle](https://github.com/Benjamin-Dobell/luabundle) - A library for bundling several Lua files into a single file.
 *   [eBay/visual-html](https://github.com/eBay/visual-html) - Visual regression testing without the flakiness.
-*   [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+*   [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 *   [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix) - Utilities and variants for styling Radix state
 *   [otonashixav/solid-flip](https://github.com/otonashixav/solid-flip) -
@@ -867,7 +867,6 @@
 *   [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 *   [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
 *   [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
-*   [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 *   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 *   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 *   [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go) - 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code.
@@ -993,6 +992,39 @@
 *   [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
 *   [zegl/rules\_codeowners](https://github.com/zegl/rules_codeowners) - Bazel rules for generating CODEOWNERS from a workspace.
 *   [OasisDigital/bazelcon-2019](https://github.com/OasisDigital/bazelcon-2019) - Bazel examples for "Bazel Boot Camp" session at Bazelcon 2019
+
+## C
+
+*   [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+*   [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
+*   [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
+*   [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig.
+*   [svanderburg/disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
+*   [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
+*   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+*   [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+*   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+*   [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
+*   [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -
+*   [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
+*   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+*   [opensourcerouting/c-capnproto](https://github.com/opensourcerouting/c-capnproto) - C library/compiler for the Cap'n Proto serialization/RPC protocol
+*   [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
+*   [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime number projects in 100+ programming languages, to compare their speed - and their programmer's cleverness
+*   [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
+*   [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+*   [fujimotos/polyleven](https://github.com/fujimotos/polyleven) - A Fast Levenshtein Distance Library for Python
+*   [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+*   [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
+*   [petere/pguri](https://github.com/petere/pguri) - uri type for PostgreSQL
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## Assembly
 
@@ -1152,38 +1184,6 @@
 *   [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 *   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-
-## C
-
-*   [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
-*   [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
-*   [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig.
-*   [svanderburg/disnix](https://github.com/svanderburg/disnix) - Disnix: A Nix-based distributed service deployment tool
-*   [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
-*   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-*   [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-*   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-*   [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
-*   [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -
-*   [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
-*   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-*   [opensourcerouting/c-capnproto](https://github.com/opensourcerouting/c-capnproto) - C library/compiler for the Cap'n Proto serialization/RPC protocol
-*   [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
-*   [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime number projects in 100+ programming languages, to compare their speed - and their programmer's cleverness
-*   [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
-*   [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
-*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-*   [fujimotos/polyleven](https://github.com/fujimotos/polyleven) - A Fast Levenshtein Distance Library for Python
-*   [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-*   [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-*   [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
-*   [petere/pguri](https://github.com/petere/pguri) - uri type for PostgreSQL
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## Svelte
 
