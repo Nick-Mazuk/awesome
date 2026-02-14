@@ -65,6 +65,7 @@
 *   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
+*   [Bru](#bru)
 *   [Vue](#vue)
 
 ## TypeScript
@@ -291,7 +292,6 @@
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 *   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 *   [seferov/pr-lint-action](https://github.com/seferov/pr-lint-action) - :octocat: PR lint for GitHub Actions
-*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 *   [trilom/file-changes-action](https://github.com/trilom/file-changes-action) - This action can be added, and you will get outputs of all of the files that have changed in your repository for you to use.
@@ -1443,6 +1443,10 @@
 ## TeX
 
 *   [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
+
+## Bru
+
+*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## Vue
 
