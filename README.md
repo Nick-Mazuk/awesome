@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Nix](#nix)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -21,7 +22,6 @@
 *   [Assembly](#assembly)
 *   [Shell](#shell)
 *   [HTML](#html)
-*   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [OCaml](#ocaml)
 *   [ReScript](#rescript)
@@ -65,8 +65,20 @@
 *   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
-*   [Bru](#bru)
 *   [Vue](#vue)
+
+## Swift
+
+*   [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc
+*   [MobileNativeFoundation/rules\_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj) - Bazel rules for generating Xcode projects.
+*   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+*   [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+*   [devwaseem/TempBox](https://github.com/devwaseem/TempBox) - Instant disposable emails for Mac powered by Mail.tm
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+*   [garethgeorge/arkit-memorypalace](https://github.com/garethgeorge/arkit-memorypalace) - An arkit app built for learning purposes with the goal of allowing the user to create a virtual memory palace in a physical space.
 
 ## Nix
 
@@ -304,6 +316,7 @@
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 *   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 *   [seferov/pr-lint-action](https://github.com/seferov/pr-lint-action) - :octocat: PR lint for GitHub Actions
+*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 *   [trilom/file-changes-action](https://github.com/trilom/file-changes-action) - This action can be added, and you will get outputs of all of the files that have changed in your repository for you to use.
@@ -840,7 +853,6 @@
 *   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 *   [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) -
-*   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 
 ## Erlang
 
@@ -1084,18 +1096,6 @@
 *   [Nick-Mazuk/fast-coder](https://github.com/Nick-Mazuk/fast-coder) - So you can look cool coding usless code typing uselessly
 *   [Nick-Mazuk/password-helper](https://github.com/Nick-Mazuk/password-helper) -
 *   [Nick-Mazuk/password](https://github.com/Nick-Mazuk/password) - A password tool that will be very difficult to crack (unless you look at the code)
-
-## Swift
-
-*   [MobileNativeFoundation/rules\_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj) - Bazel rules for generating Xcode projects.
-*   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-*   [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-*   [devwaseem/TempBox](https://github.com/devwaseem/TempBox) - Instant disposable emails for Mac powered by Mail.tm
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-*   [garethgeorge/arkit-memorypalace](https://github.com/garethgeorge/arkit-memorypalace) - An arkit app built for learning purposes with the goal of allowing the user to create a virtual memory palace in a physical space.
 
 ## Ruby
 
@@ -1443,10 +1443,6 @@
 ## TeX
 
 *   [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
-
-## Bru
-
-*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## Vue
 
