@@ -834,7 +834,7 @@
 *   [aaronstanekhosting/gen-show3](https://github.com/aaronstanekhosting/gen-show3) -
 *   [aaronstanek/gen-show3](https://github.com/aaronstanek/gen-show3) -
 *   [Nick-Mazuk/balanced-text](https://github.com/Nick-Mazuk/balanced-text) - A performance-optimized script for balancing text in browser.
-*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 *   [nytimes/text-balancer](https://github.com/nytimes/text-balancer) - Eliminate typographic widows and other type crimes with this javascript module
 *   [Nick-Mazuk/Google-Code-Jam](https://github.com/Nick-Mazuk/Google-Code-Jam) -
 *   [Nick-Mazuk/Pacman](https://github.com/Nick-Mazuk/Pacman) - A playable webased version of pacman.
