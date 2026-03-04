@@ -49,6 +49,7 @@
 *   [D](#d)
 *   [MDX](#mdx)
 *   [Jai](#jai)
+*   [Vue](#vue)
 *   [TLA](#tla)
 *   [Alloy](#alloy)
 *   [Scala](#scala)
@@ -65,7 +66,6 @@
 *   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
-*   [Vue](#vue)
 
 ## Swift
 
@@ -190,7 +190,6 @@
 *   [cameronhunter/prettier-package-json](https://github.com/cameronhunter/prettier-package-json) - Prettier formatter for package.json files
 *   [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 *   [honzabit/durable-limiter](https://github.com/honzabit/durable-limiter) - A rate-limiter using Durable Objects on CF Workers that actually doesn't rate limit anything.
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 *   [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client & API docs generator for your Serverless Application (Svelte First)
 *   [harshmangalam/qwik-wrap-balancer](https://github.com/harshmangalam/qwik-wrap-balancer) - Simple Qwik Component That Makes Titles More Readable
 *   [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
@@ -394,7 +393,7 @@
 *   [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
 *   [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 *   [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
-*   [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
+*   [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
 *   [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [AThilenius/axum-connect](https://github.com/AThilenius/axum-connect) - Axum + Connect-Web = ♥️
@@ -1376,6 +1375,11 @@
 
 *   [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
 
+## Vue
+
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+*   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
+
 ## TLA
 
 *   [Apress/practical-tla-plus](https://github.com/Apress/practical-tla-plus) - Source Code for 'Practical TLA+' by Hillel Wayne
@@ -1443,7 +1447,3 @@
 ## TeX
 
 *   [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
-
-## Vue
-
-*   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
