@@ -95,6 +95,7 @@
 *   [CodeIntelligenceTesting/jazzer.js](https://github.com/CodeIntelligenceTesting/jazzer.js) - Coverage-guided, in-process fuzzing for Node.js
 *   [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 *   [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
+*   [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 *   [rocicorp/undo](https://github.com/rocicorp/undo) - Undo Redo Manager
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 *   [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
@@ -883,7 +884,6 @@
 
 *   [tonsky/vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster) - A light theme for Visual Studio Code
 *   [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
-*   [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 
 ## Go
 
@@ -997,7 +997,7 @@
 *   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
 *   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 *   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
-*   [bazelbuild/rules\_kotlin](https://github.com/bazelbuild/rules_kotlin) - Bazel rules for Kotlin
+*   [bazel-contrib/rules\_kotlin](https://github.com/bazel-contrib/rules_kotlin) - Bazel rules for Kotlin
 *   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 *   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
 *   [bazelbuild/rules\_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
