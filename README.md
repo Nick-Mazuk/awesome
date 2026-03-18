@@ -1176,7 +1176,7 @@
 *   [ziglibs/eggzon](https://github.com/ziglibs/eggzon) - 🥚Zon - A DOM based Zig Object Notation parser
 *   [aeronavery/zig-toml](https://github.com/aeronavery/zig-toml) - A TOML parser written in Zig
 *   [kubkon/protozig](https://github.com/kubkon/protozig) - The protozig(uana), or protocol buffers implementation in Zig
-*   [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in zig
+*   [archaistvolts/protobuf-zig](https://github.com/archaistvolts/protobuf-zig) - A protocol buffers implementation in zig
 *   [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 *   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 *   [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf 3 implementation for zig.
