@@ -47,13 +47,13 @@
 *   [F#](#f)
 *   [SCSS](#scss)
 *   [D](#d)
-*   [MDX](#mdx)
 *   [Jai](#jai)
 *   [Vue](#vue)
 *   [TLA](#tla)
 *   [Alloy](#alloy)
 *   [Scala](#scala)
 *   [Vim script](#vim-script-1)
+*   [MDX](#mdx)
 *   [Fennel](#fennel)
 *   [ShaderLab](#shaderlab)
 *   [AppleScript](#applescript)
@@ -469,6 +469,7 @@
 *   [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
 *   [katopz/hello-rust-actix-cloudrun](https://github.com/katopz/hello-rust-actix-cloudrun) - Hello Rust on CloudRun
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+*   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 *   [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 *   [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
@@ -1366,11 +1367,6 @@
 
 *   [SenseLogic/GENERIS](https://github.com/SenseLogic/GENERIS) - Versatile Go code generator.
 
-## MDX
-
-*   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
-*   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
-
 ## Jai
 
 *   [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
@@ -1397,6 +1393,10 @@
 ## Vim script
 
 *   [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
+
+## MDX
+
+*   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 
 ## Fennel
 
