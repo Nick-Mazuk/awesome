@@ -1168,7 +1168,7 @@
 *   [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 *   [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 *   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
-*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 *   [prime31/zig-ecs](https://github.com/prime31/zig-ecs) -
 *   [Hejsil/zig-bench](https://github.com/Hejsil/zig-bench) - Simple benchmarking library
 *   [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
