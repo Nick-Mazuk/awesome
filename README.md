@@ -910,7 +910,7 @@
 *   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 *   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 *   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+*   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 *   [opentofu/registry](https://github.com/opentofu/registry) - Metadata and tooling for the OpenTofu registry
 *   [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
