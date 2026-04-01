@@ -69,6 +69,7 @@
 
 ## TypeScript
 
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 *   [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 *   [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -
 *   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
@@ -854,7 +855,6 @@
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 *   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
 *   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
-*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 
 ## Erlang
 
@@ -1088,7 +1088,7 @@
 *   [lstrzepek/obsidian-yt-transcript](https://github.com/lstrzepek/obsidian-yt-transcript) -
 *   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
+*   [w3c-cg/smufl](https://github.com/w3c-cg/smufl) - Standard Music Font Layout
 *   [dmtrKovalenko/cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
 *   [LeaVerou/css.land](https://github.com/LeaVerou/css.land) - Hands on CSS demos
 *   [Nick-Mazuk/Convert-CSS-Hex-to-HSL](https://github.com/Nick-Mazuk/Convert-CSS-Hex-to-HSL) - Upload a CSS (or any text file) file and all hex colors will be converted HSL (e.g., #FFFFFF -> hsl(0, 0, 100))
