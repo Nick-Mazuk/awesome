@@ -1155,7 +1155,7 @@
 
 ## Zig
 
-*   [floscodes/zerve](https://github.com/floscodes/zerve) - A simple framework for writing web services in zig.
+*   [floscodes/zerve](https://github.com/floscodes/zerve) - zerve is a lightweight, zero-dependency web framework for Zig – designed to be simple, fast, and easy to use.
 *   [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 *   [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Immediate Zig GUI for Apps and Games
 *   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
