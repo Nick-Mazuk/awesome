@@ -326,7 +326,7 @@
 *   [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 *   [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 *   [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
-*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 *   [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
