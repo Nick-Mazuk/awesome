@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Swift](#swift)
 *   [Nix](#nix)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Erlang](#erlang)
 *   [Elixir](#elixir)
@@ -66,6 +66,43 @@
 *   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
+
+## Python
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
+*   [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper) - A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
+*   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
+*   [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
+*   [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
+*   [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+*   [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
+*   [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
+*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+*   [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+*   [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
+*   [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
+*   [mitchelldavis/rules\_terraform](https://github.com/mitchelldavis/rules_terraform) - Bazel rules for using Hashicorp's Terraform in your Bazel builds.
+*   [trotto/go-links](https://github.com/trotto/go-links) - The open source go links app at the core of Trotto.
+*   [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
+*   [apt-itude/rules\_pip](https://github.com/apt-itude/rules_pip) - Bazel rules for pip requirements
+*   [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+*   [aaronstanek/spudlang](https://github.com/aaronstanek/spudlang) - Domain-specific programming language for creating shopping lists
+*   [cjdenio/contributor\_list](https://github.com/cjdenio/contributor_list) - Easily list contributors on your README!
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+*   [alexwlchan/auto\_merge\_my\_pull\_requests](https://github.com/alexwlchan/auto_merge_my_pull_requests) - A GitHub Action for automatically merging my pull requests on personal repos
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+*   [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
+*   [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
+*   [ilstar/http\_status\_code](https://github.com/ilstar/http_status_code) - An Alfred workflow for checking out http status code very quickly.
+*   [aaronstanek/key\_exchange\_example](https://github.com/aaronstanek/key_exchange_example) -
+*   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
+*   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
+*   [aaronstanek/UniversalCalendar](https://github.com/aaronstanek/UniversalCalendar) -
 
 ## TypeScript
 
@@ -649,41 +686,6 @@
 *   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 *   [garethgeorge/arkit-memorypalace-report](https://github.com/garethgeorge/arkit-memorypalace-report) - report for UCSB assignment ARKit Memory Palace
 
-## Python
-
-*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-*   [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper) - A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
-*   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
-*   [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
-*   [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
-*   [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
-*   [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
-*   [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
-*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-*   [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-*   [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
-*   [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
-*   [mitchelldavis/rules\_terraform](https://github.com/mitchelldavis/rules_terraform) - Bazel rules for using Hashicorp's Terraform in your Bazel builds.
-*   [trotto/go-links](https://github.com/trotto/go-links) - The open source go links app at the core of Trotto.
-*   [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
-*   [apt-itude/rules\_pip](https://github.com/apt-itude/rules_pip) - Bazel rules for pip requirements
-*   [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
-*   [aaronstanek/spudlang](https://github.com/aaronstanek/spudlang) - Domain-specific programming language for creating shopping lists
-*   [cjdenio/contributor\_list](https://github.com/cjdenio/contributor_list) - Easily list contributors on your README!
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-*   [alexwlchan/auto\_merge\_my\_pull\_requests](https://github.com/alexwlchan/auto_merge_my_pull_requests) - A GitHub Action for automatically merging my pull requests on personal repos
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-*   [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
-*   [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
-*   [ilstar/http\_status\_code](https://github.com/ilstar/http_status_code) - An Alfred workflow for checking out http status code very quickly.
-*   [aaronstanek/key\_exchange\_example](https://github.com/aaronstanek/key_exchange_example) -
-*   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
-*   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
-*   [aaronstanek/UniversalCalendar](https://github.com/aaronstanek/UniversalCalendar) -
-
 ## JavaScript
 
 *   [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -978,7 +980,6 @@
 *   [s1ntaxe770r/pawxi](https://github.com/s1ntaxe770r/pawxi) - Dead simple reverse proxy for all your containerized needss
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-*   [gleich/nuke](https://github.com/gleich/nuke) - ☢️ Force quit all applications with one terminal command in macOS and Linux
 
 ## Starlark
 
