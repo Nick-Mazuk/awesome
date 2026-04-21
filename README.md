@@ -69,6 +69,7 @@
 
 ## Python
 
+*   [modular/stack-pr](https://github.com/modular/stack-pr) - A tool for working with stacked PRs on github.
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 *   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
@@ -109,7 +110,7 @@
 *   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 *   [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 *   [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -
-*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
+*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 *   [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
 *   [Konixy/better-svelte-email](https://github.com/Konixy/better-svelte-email) - 📧 Render emails in Svelte effortlessly with first-class tailwind support
 *   [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -684,7 +685,6 @@
 *   [Nick-Mazuk/Tic-Tac-Toe](https://github.com/Nick-Mazuk/Tic-Tac-Toe) -
 *   [Nick-Mazuk/ASL](https://github.com/Nick-Mazuk/ASL) -
 *   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-*   [garethgeorge/arkit-memorypalace-report](https://github.com/garethgeorge/arkit-memorypalace-report) - report for UCSB assignment ARKit Memory Palace
 
 ## JavaScript
 
