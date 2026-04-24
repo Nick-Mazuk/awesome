@@ -160,7 +160,7 @@
 *   [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
 *   [stolinski/zero-svelte](https://github.com/stolinski/zero-svelte) -
 *   [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 *   [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 *   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 *   [sqlc-dev/sqlc-gen-typescript](https://github.com/sqlc-dev/sqlc-gen-typescript) -
@@ -401,7 +401,6 @@
 *   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
 *   [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
 *   [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
-*   [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env \[maintainer=@Profpatsch,@nyarly]
 *   [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 *   [aaronstanek/yellow-chameleon](https://github.com/aaronstanek/yellow-chameleon) - GitHub Action to seamlessly share private code while protecting sensitive information
 *   [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -910,6 +909,7 @@
 *   [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 *   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 *   [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+*   [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env \[maintainer=@Profpatsch,@nyarly]
 *   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
