@@ -586,7 +586,7 @@
 
 ## Swift
 
-*   [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc
+*   [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Fast, free alternative to Wispr Flow
 *   [MobileNativeFoundation/rules\_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj) - Bazel rules for generating Xcode projects.
 *   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
