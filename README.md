@@ -63,7 +63,6 @@
 *   [Nim](#nim)
 *   [Haml](#haml)
 *   [CoffeeScript](#coffeescript)
-*   [JSON](#json)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 
@@ -137,7 +136,7 @@
 *   [evoluhq/evolu](https://github.com/evoluhq/evolu) - TypeScript library and local-first platform
 *   [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-*   [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
+*   [hexclave/stack-auth](https://github.com/hexclave/stack-auth) - Open-source Auth0/Clerk alternative
 *   [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 *   [tsdjs/tsd](https://github.com/tsdjs/tsd) - Check TypeScript type definitions
 *   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
@@ -1436,12 +1435,9 @@
 
 *   [Nick-Mazuk/zxcvbn](https://github.com/Nick-Mazuk/zxcvbn) - And ESM version of Dropbox/zxcvbn: a low-budget password strength estimator
 
-## JSON
-
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Markdown
 
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
