@@ -68,6 +68,7 @@
 
 ## TypeScript
 
+*   [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -
 *   [midspiral/LemmaScript](https://github.com/midspiral/LemmaScript) - verification toolchain for TypeScript (Tech Preview)
 *   [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 *   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -788,7 +789,7 @@
 *   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 *   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 *   [ls-age/svelte-mail](https://github.com/ls-age/svelte-mail) - Renders Svelte components for emails. Inlines styles and renders additional plain text version.
-*   [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+*   [maizzle/framework](https://github.com/maizzle/framework) - The modern email development framework.
 *   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 *   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
 *   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
@@ -1307,7 +1308,6 @@
 *   [Nick-Mazuk/Band-Website](https://github.com/Nick-Mazuk/Band-Website) -
 *   [Nick-Mazuk/Cascading-Explanding-Block](https://github.com/Nick-Mazuk/Cascading-Explanding-Block) - This is just an experiment repository to help make fancy looking navigation bars.
 *   [Nick-Mazuk/Spoon-Knife](https://github.com/Nick-Mazuk/Spoon-Knife) - This repo is for demonstration purposes only.
-*   [aminkodaganur/iconplus](https://github.com/aminkodaganur/iconplus) - Produce icons with extra effect like long shadow, flat shadow, box effect, circle effect and rounded rectangle effect. It support Dynamic text, Font-awesome icons and also google materialized icon. You can make any Font-awesome icon as line icon and add attractive effect to it dynamically. As a output you will get CSS3 code and also you can export it as SVG file...
 
 ## Java
 
