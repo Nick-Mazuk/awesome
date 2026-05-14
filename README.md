@@ -364,7 +364,7 @@
 *   [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 *   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 *   [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
-*   [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data collector
+*   [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
 *   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
 *   [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
 *   [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -518,7 +518,6 @@
 *   [nathankleyn/gitignore.rs](https://github.com/nathankleyn/gitignore.rs) - Implementation of .gitignore file parsing and glob testing in Rust.
 *   [cloudflare/dkim](https://github.com/cloudflare/dkim) - DKIM (RFC6376) implementation
 *   [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
-*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - { Correct, Fast, Usable } -- Choose three
 *   [ebkalderon/example-fault-tolerant-parser](https://github.com/ebkalderon/example-fault-tolerant-parser) - Fault-tolerant nom 5 parser based on "Syntax error recovery in parsing expression grammars" (2018)
 *   [andylokandy/nom-rule](https://github.com/andylokandy/nom-rule) - A procedural macro for defining nom combinators in simple DSL
 *   [Nick-Mazuk/prettify](https://github.com/Nick-Mazuk/prettify) - An extensible, language-agnostic, Rust-based code formatter based on Prettier.
@@ -1011,6 +1010,7 @@
 *   [aspect-build/rules\_ts](https://github.com/aspect-build/rules_ts) - Bazel rules for the `tsc` compiler from http://typescriptlang.org
 *   [f0rmiga/gcc-toolchain](https://github.com/f0rmiga/gcc-toolchain) - A fully-hermetic Bazel GCC toolchain for Linux.
 *   [salesforce/bazel-mystery](https://github.com/salesforce/bazel-mystery) - An interactive way to learn bazel.
+*   [aspect-build/aspect-cli](https://github.com/aspect-build/aspect-cli) - { Correct, Fast, Usable } -- Choose three
 *   [aspect-build/rules\_esbuild](https://github.com/aspect-build/rules_esbuild) - Bazel rules for https://esbuild.github.io/ JS bundler
 *   [aspect-build/rules\_swc](https://github.com/aspect-build/rules_swc) - Bazel rules for the swc toolchain https://swc.rs/
 *   [bazel-contrib/rules\_nodejs](https://github.com/bazel-contrib/rules_nodejs) - NodeJS toolchain for Bazel.
