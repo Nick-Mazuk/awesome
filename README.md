@@ -493,7 +493,7 @@
 *   [ParkMyCar/compact\_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24\* bytes on the stack
 *   [murarth/smallstr](https://github.com/murarth/smallstr) - String-like container based on SmallVec
 *   [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
-*   [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
+*   [composefs/tar-rs](https://github.com/composefs/tar-rs) - Tar file reading/writing for Rust
 *   [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 *   [baoyachi/sha256-rs](https://github.com/baoyachi/sha256-rs) - sha256 crypto digest write by rust
 *   [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
@@ -520,6 +520,7 @@
 *   [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
 *   [ebkalderon/example-fault-tolerant-parser](https://github.com/ebkalderon/example-fault-tolerant-parser) - Fault-tolerant nom 5 parser based on "Syntax error recovery in parsing expression grammars" (2018)
 *   [andylokandy/nom-rule](https://github.com/andylokandy/nom-rule) - A procedural macro for defining nom combinators in simple DSL
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 *   [Nick-Mazuk/prettify](https://github.com/Nick-Mazuk/prettify) - An extensible, language-agnostic, Rust-based code formatter based on Prettier.
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 *   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1185,7 +1186,6 @@
 *   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 *   [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - a protobuf 3 implementation for zig.
 *   [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 *   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 
 ## Svelte
