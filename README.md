@@ -286,6 +286,7 @@
 *   [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 *   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 *   [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
+*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 *   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
 *   [noahsalvi/svelte-use-form](https://github.com/noahsalvi/svelte-use-form) - The most compact reactive form controller (including Validation) that you'll ever see.
@@ -503,6 +504,7 @@
 *   [sksat/github-webhook-rs](https://github.com/sksat/github-webhook-rs) - GitHub webhooks for Rust
 *   [qubyte/github\_webhook\_message\_validator](https://github.com/qubyte/github_webhook_message_validator) - A library to check that payloads from github webhooks are valid.
 *   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
 *   [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
 *   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
 *   [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Backtraces in Rust
@@ -662,7 +664,6 @@
 *   [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
 *   [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 *   [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
-*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
 *   [jecolon/zigstr](https://github.com/jecolon/zigstr) - Zigstr is a UTF-8 string type for Zig programs.
 *   [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -814,7 +815,6 @@
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 *   [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
 *   [Rich-Harris/svg-parser](https://github.com/Rich-Harris/svg-parser) -
-*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 *   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 *   [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 *   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
