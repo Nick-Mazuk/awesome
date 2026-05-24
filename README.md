@@ -994,14 +994,14 @@
 *   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
 *   [bazelbuild/rules\_license](https://github.com/bazelbuild/rules_license) -
 *   [aspect-build/rules\_py](https://github.com/aspect-build/rules_py) - More compatible Bazel rules for running Python tools and building Python projects
-*   [aspect-build/toolchains\_protoc](https://github.com/aspect-build/toolchains_protoc) - Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
+*   [aspect-archives/toolchains\_protoc](https://github.com/aspect-archives/toolchains_protoc) - Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
 *   [tweag/rules\_gcs](https://github.com/tweag/rules_gcs) - Bazel rules for downloading files from Google Cloud Storage
 *   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
 *   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
 *   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
 *   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
 *   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
-*   [aspect-build/bazel-super-formatter](https://github.com/aspect-build/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
+*   [aspect-archives/bazel-super-formatter](https://github.com/aspect-archives/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
 *   [bazel-contrib/rules\_kotlin](https://github.com/bazel-contrib/rules_kotlin) - Bazel rules for Kotlin
 *   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 *   [aspect-build/rules\_lint](https://github.com/aspect-build/rules_lint) - Run static analysis tools with Bazel
