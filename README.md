@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -20,7 +21,6 @@
 *   [Starlark](#starlark)
 *   [C](#c-1)
 *   [Assembly](#assembly)
-*   [Shell](#shell)
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [OCaml](#ocaml)
@@ -65,6 +65,28 @@
 *   [CoffeeScript](#coffeescript)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
+
+## Shell
+
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+*   [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+*   [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
+*   [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use\_nix/use\_flake implementation for direnv \[maintainer=@Mic92 / @bbenne10]
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+*   [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+*   [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+*   [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
+*   [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+*   [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
+*   [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases.
+*   [ChrisCummins/bazel\_llvm](https://github.com/ChrisCummins/bazel_llvm) - LLVM libraries and binaries for bazel
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+*   [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+*   [actions-js/push](https://github.com/actions-js/push) - ⬆️ Push changes made by actions right back into the current repository.
+*   [phallstrom/AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
+*   [anmolnagpal/alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 
 ## TypeScript
 
@@ -688,7 +710,6 @@
 *   [Nick-Mazuk/google-10000-english](https://github.com/Nick-Mazuk/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 *   [Nick-Mazuk/Tic-Tac-Toe](https://github.com/Nick-Mazuk/Tic-Tac-Toe) -
 *   [Nick-Mazuk/ASL](https://github.com/Nick-Mazuk/ASL) -
-*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 
 ## JavaScript
 
@@ -1057,27 +1078,6 @@
 ## Assembly
 
 *   [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
-
-## Shell
-
-*   [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-*   [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-*   [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use\_nix/use\_flake implementation for direnv \[maintainer=@Mic92 / @bbenne10]
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-*   [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-*   [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
-*   [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
-*   [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-*   [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
-*   [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases.
-*   [ChrisCummins/bazel\_llvm](https://github.com/ChrisCummins/bazel_llvm) - LLVM libraries and binaries for bazel
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
-*   [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-*   [actions-js/push](https://github.com/actions-js/push) - ⬆️ Push changes made by actions right back into the current repository.
-*   [phallstrom/AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
-*   [anmolnagpal/alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 
 ## HTML
 
