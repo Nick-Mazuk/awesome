@@ -526,7 +526,6 @@
 *   [sksat/github-webhook-rs](https://github.com/sksat/github-webhook-rs) - GitHub webhooks for Rust
 *   [qubyte/github\_webhook\_message\_validator](https://github.com/qubyte/github_webhook_message_validator) - A library to check that payloads from github webhooks are valid.
 *   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
 *   [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
 *   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
 *   [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Backtraces in Rust
@@ -1315,6 +1314,7 @@
 *   [bazel-contrib/rules\_jvm\_external](https://github.com/bazel-contrib/rules_jvm_external) - Bazel rules to resolve, fetch and export Maven artifacts
 *   [google/closure-templates](https://github.com/google/closure-templates) - A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
 *   [Audiveris/audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
+*   [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) -
 *   [AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching networks. This repository contains the code for the tool.
 *   [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 *   [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
