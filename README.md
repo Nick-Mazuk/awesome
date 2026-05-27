@@ -1019,7 +1019,7 @@
 *   [linzhp/codegen\_example](https://github.com/linzhp/codegen_example) - End to end example to define a Bazel rule that generates Go code
 *   [aspect-build/bazel-examples](https://github.com/aspect-build/bazel-examples) - Bazel examples
 *   [fremtind/rules\_vitest](https://github.com/fremtind/rules_vitest) - Bazel rules to run tests using https://vitest.dev/
-*   [aherrmann/rules\_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig
+*   [hermeticbuild/rules\_zig](https://github.com/hermeticbuild/rules_zig) - Bazel build rules for Zig
 *   [uber/hermetic\_cc\_toolchain](https://github.com/uber/hermetic_cc_toolchain) - Bazel C/C++ toolchain for cross-compiling C/C++ programs
 *   [aspect-archives/bazel-super-formatter](https://github.com/aspect-archives/bazel-super-formatter) - Hermetic meta-formatter to format code in most languages
 *   [bazel-contrib/rules\_kotlin](https://github.com/bazel-contrib/rules_kotlin) - Bazel rules for Kotlin
