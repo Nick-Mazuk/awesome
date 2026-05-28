@@ -466,7 +466,7 @@
 *   [wrenger/bitfield-struct-rs](https://github.com/wrenger/bitfield-struct-rs) - Procedural macro for bitfields.
 *   [victorporof/rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust
 *   [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
-*   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+*   [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 *   [davidpdrsn/axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML
 *   [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust
 *   [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
