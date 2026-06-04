@@ -109,7 +109,7 @@
 *   [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 *   [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 *   [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-*   [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+*   [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 *   [typesense/typesense-js](https://github.com/typesense/typesense-js) - JavaScript / TypeScript client for Typesense
 *   [ChromeGG/cel-js](https://github.com/ChromeGG/cel-js) - cel-js is a  Common Expression Language (CEL) evaluator for JavaScript
 *   [bufbuild/protovalidate-es](https://github.com/bufbuild/protovalidate-es) - Protocol Buffer Validation for ECMAScript
