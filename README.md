@@ -138,7 +138,7 @@
 *   [evoluhq/evolu](https://github.com/evoluhq/evolu) - TypeScript library and local-first platform
 *   [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-*   [hexclave/hexclave](https://github.com/hexclave/hexclave) - Open-source Auth0/Clerk alternative
+*   [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 *   [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 *   [tsdjs/tsd](https://github.com/tsdjs/tsd) - Check TypeScript type definitions
 *   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
