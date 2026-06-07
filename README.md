@@ -68,6 +68,7 @@
 
 ## TypeScript
 
+*   [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 *   [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 *   [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -
 *   [midspiral/LemmaScript](https://github.com/midspiral/LemmaScript) - verification toolchain for TypeScript (Tech Preview)
@@ -878,7 +879,6 @@
 *   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 *   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
-*   [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page
 
 ## Erlang
 
