@@ -529,7 +529,7 @@
 *   [qubyte/github\_webhook\_message\_validator](https://github.com/qubyte/github_webhook_message_validator) - A library to check that payloads from github webhooks are valid.
 *   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 *   [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
-*   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+*   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A correct and efficient TypeScript type checker and compiler with additional experiments
 *   [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Backtraces in Rust
 *   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 *   [Lucretiel/nom-supreme](https://github.com/Lucretiel/nom-supreme) - A collection of utilities for a superior nom experience
