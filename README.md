@@ -351,7 +351,7 @@
 ## Rust
 
 *   [hegeldev/hegel-rust](https://github.com/hegeldev/hegel-rust) - Property-based testing for Rust, built on Hypothesis
-*   [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
+*   [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
 *   [amethyst/specs](https://github.com/amethyst/specs) - Specs - Parallel ECS
 *   [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 *   [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
@@ -1008,7 +1008,7 @@
 ## Starlark
 
 *   [bazel-contrib/rules\_dotnet](https://github.com/bazel-contrib/rules_dotnet) - .NET rules for Bazel
-*   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+*   [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 *   [bazel-contrib/rules\_fuzzing](https://github.com/bazel-contrib/rules_fuzzing) - Bazel Starlark extensions for defining fuzz tests in Bazel projects
 *   [bufbuild/rules\_buf](https://github.com/bufbuild/rules_buf) - Bazel rules for Buf.
 *   [buildbuddy-io/bazel\_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl) - A virtual environment for Bazel-managed tools and toolchains.
