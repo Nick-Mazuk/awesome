@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [Swift](#swift)
 *   [Nix](#nix)
 *   [C++](#c)
@@ -47,13 +47,13 @@
 *   [F#](#f)
 *   [SCSS](#scss)
 *   [D](#d)
+*   [MDX](#mdx)
 *   [Jai](#jai)
 *   [Vue](#vue)
 *   [TLA](#tla)
 *   [Alloy](#alloy)
 *   [Scala](#scala)
 *   [Vim script](#vim-script-1)
-*   [MDX](#mdx)
 *   [Fennel](#fennel)
 *   [ShaderLab](#shaderlab)
 *   [AppleScript](#applescript)
@@ -65,6 +65,44 @@
 *   [CoffeeScript](#coffeescript)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
+
+## Python
+
+*   [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+*   [modular/stack-pr](https://github.com/modular/stack-pr) - A tool for working with stacked PRs on github.
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
+*   [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper) - A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
+*   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
+*   [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
+*   [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
+*   [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+*   [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
+*   [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
+*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+*   [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+*   [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
+*   [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
+*   [mitchelldavis/rules\_terraform](https://github.com/mitchelldavis/rules_terraform) - Bazel rules for using Hashicorp's Terraform in your Bazel builds.
+*   [trotto/go-links](https://github.com/trotto/go-links) - The open source go links app at the core of Trotto.
+*   [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
+*   [apt-itude/rules\_pip](https://github.com/apt-itude/rules_pip) - Bazel rules for pip requirements
+*   [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+*   [aaronstanek/spudlang](https://github.com/aaronstanek/spudlang) - Domain-specific programming language for creating shopping lists
+*   [cjdenio/contributor\_list](https://github.com/cjdenio/contributor_list) - Easily list contributors on your README!
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+*   [alexwlchan/auto\_merge\_my\_pull\_requests](https://github.com/alexwlchan/auto_merge_my_pull_requests) - A GitHub Action for automatically merging my pull requests on personal repos
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+*   [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
+*   [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
+*   [ilstar/http\_status\_code](https://github.com/ilstar/http_status_code) - An Alfred workflow for checking out http status code very quickly.
+*   [aaronstanek/key\_exchange\_example](https://github.com/aaronstanek/key_exchange_example) -
+*   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
+*   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
 
 ## TypeScript
 
@@ -120,6 +158,7 @@
 *   [drizzle-team/brocli](https://github.com/drizzle-team/brocli) - Modern type-safe way of building CLIs
 *   [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 *   [bazel-contrib/publish-to-bcr](https://github.com/bazel-contrib/publish-to-bcr) - GitHub release automation for publishing modules to the Bazel Central Registry
+*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 *   [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 *   [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 *   [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -499,7 +538,6 @@
 *   [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
 *   [katopz/hello-rust-actix-cloudrun](https://github.com/katopz/hello-rust-actix-cloudrun) - Hello Rust on CloudRun
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-*   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 *   [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 *   [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
@@ -574,43 +612,6 @@
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-## Python
-
-*   [modular/stack-pr](https://github.com/modular/stack-pr) - A tool for working with stacked PRs on github.
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-*   [typesense/typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper) - A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
-*   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
-*   [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
-*   [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
-*   [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
-*   [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
-*   [re-actors/alls-green](https://github.com/re-actors/alls-green) - A check for whether the dependency jobs are all green.
-*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-*   [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-*   [eine/tip](https://github.com/eine/tip) - GitHub Action to keep a 'tip' pre-release always up-to-date
-*   [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
-*   [mitchelldavis/rules\_terraform](https://github.com/mitchelldavis/rules_terraform) - Bazel rules for using Hashicorp's Terraform in your Bazel builds.
-*   [trotto/go-links](https://github.com/trotto/go-links) - The open source go links app at the core of Trotto.
-*   [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
-*   [apt-itude/rules\_pip](https://github.com/apt-itude/rules_pip) - Bazel rules for pip requirements
-*   [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
-*   [aaronstanek/spudlang](https://github.com/aaronstanek/spudlang) - Domain-specific programming language for creating shopping lists
-*   [cjdenio/contributor\_list](https://github.com/cjdenio/contributor_list) - Easily list contributors on your README!
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-*   [alexwlchan/auto\_merge\_my\_pull\_requests](https://github.com/alexwlchan/auto_merge_my_pull_requests) - A GitHub Action for automatically merging my pull requests on personal repos
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-*   [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
-*   [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
-*   [ilstar/http\_status\_code](https://github.com/ilstar/http_status_code) - An Alfred workflow for checking out http status code very quickly.
-*   [aaronstanek/key\_exchange\_example](https://github.com/aaronstanek/key_exchange_example) -
-*   [aaronstanek/PythonPasswordUtility](https://github.com/aaronstanek/PythonPasswordUtility) - Cryptographically secure, easy-to-use, password generator
-*   [Nick-Mazuk/Project-Euler](https://github.com/Nick-Mazuk/Project-Euler) - A repo for all my Project Euler solutions in every language that I've coded them in
 
 ## Swift
 
@@ -727,7 +728,6 @@
 *   [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 *   [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd?
-*   [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 *   [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 *   [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
 *   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -878,7 +878,6 @@
 *   [Nick-Mazuk/Sorting-Algorithm](https://github.com/Nick-Mazuk/Sorting-Algorithm) -
 *   [Nick-Mazuk/solve-polynomials](https://github.com/Nick-Mazuk/solve-polynomials) - A function to solve polynomials. Completely a work in progress
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [Khan/react-balance-text](https://github.com/Khan/react-balance-text) - A React wrapper for the Adobe Web Platform's Balance-Text Project
 
 ## Erlang
 
@@ -1366,6 +1365,12 @@
 
 *   [SenseLogic/GENERIS](https://github.com/SenseLogic/GENERIS) - Versatile Go code generator.
 
+## MDX
+
+*   [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
+*   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+
 ## Jai
 
 *   [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
@@ -1392,11 +1397,6 @@
 ## Vim script
 
 *   [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
-
-## MDX
-
-*   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Fennel
 
