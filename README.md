@@ -428,7 +428,7 @@
 *   [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 *   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 *   [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
-*   [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+*   [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 *   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
 *   [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
 *   [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
